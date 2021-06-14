@@ -1,0 +1,3001 @@
+[
+  {
+    "data": {
+      "id": "ocd-person/1ea0df76-d98b-46dc-8e32-9d5fe986bd3e",
+      "name": "Laura Acasio",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "1",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=acasio&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=acasio&year=2021"
+        }
+      ],
+      "given_name": "Laura",
+      "family_name": "Acasio",
+      "email": "senacasio@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6760",
+          "fax": "808-586-6689",
+          "address": "Hawaii State Capitol, Room 203",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/75bf9b2a-9556-435f-8536-0f009fb89739",
+      "name": "Henry J.C. Aquino",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "38",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=aquino&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=aquino&year=2021"
+        }
+      ],
+      "given_name": "Henry J.C.",
+      "family_name": "Aquino",
+      "email": "repaquino@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6520",
+          "fax": "808-586-6521",
+          "address": "Hawaii State Capitol, Room 419",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/86d8164e-65fd-4bc6-9ea3-bc3a85c23769",
+      "name": "Rosalyn H. Baker",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "6",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=baker&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=baker&year=2021"
+        }
+      ],
+      "given_name": "Rosalyn H.",
+      "family_name": "Baker",
+      "email": "senbaker@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6070",
+          "fax": "808-586-6071",
+          "address": "Hawaii State Capitol, Room 230",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/c60c5b6f-43de-4f14-91a0-594cc600a0be",
+      "name": "Della Au Belatti",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "24",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=belatti&year=2021"
+        }
+      ],
+      "given_name": "Della Au",
+      "family_name": "Belatti",
+      "email": "repbelatti@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9425",
+          "fax": "808-586-9431",
+          "address": "Hawaii State Capitol, Room 439",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/c4634d51-e9e9-4262-8325-440262696675",
+      "name": "Patrick Pihana Branco",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "50",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Branco&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Branco&year=2021"
+        }
+      ],
+      "given_name": "Patrick Pihana",
+      "family_name": "Branco",
+      "email": "repbranco@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6480",
+          "fax": "808-586-6481",
+          "address": "Hawaii State Capitol, Room 328",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/96e3bc30-4e1a-4044-a2b2-10915ce51a3c",
+      "name": "Stanley Chang",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "9",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=chang&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=chang&year=2021"
+        }
+      ],
+      "given_name": "Stanley",
+      "family_name": "Chang",
+      "email": "senchang@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8420",
+          "fax": "808-586-8426",
+          "address": "Hawaii State Capitol, Room 226",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/04617a0c-aae2-49ba-b847-4a5fbbd51330",
+      "name": "Ty J.K. Cullen",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "39",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=cullen&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=cullen&year=2021"
+        }
+      ],
+      "given_name": "Ty J.K.",
+      "family_name": "Cullen",
+      "email": "repcullen@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8490",
+          "fax": "808-586-8494",
+          "address": "Hawaii State Capitol, Room 320",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/4db17546-cf2b-47a9-a171-2882695651a6",
+      "name": "Lynn DeCoite",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "13",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=decoite&year=2021"
+        }
+      ],
+      "given_name": "Lynn",
+      "family_name": "DeCoite",
+      "email": "repdecoite@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6790",
+          "fax": "808-586-6779",
+          "address": "Hawaii State Capitol, Room 441",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/45caa959-5c24-412b-96ef-62ca7c13e7ae",
+      "name": "Donovan M. Dela Cruz",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "22",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=delacruz&year=2021"
+        }
+      ],
+      "given_name": "Donovan M.",
+      "family_name": "Dela Cruz",
+      "email": "sendelacruz@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6090",
+          "fax": "808-586-6091",
+          "address": "Hawaii State Capitol, Room 208",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/3f47eed4-fc12-4e59-88d3-72b1e2844b7b",
+      "name": "Stacelynn K.M. Eli",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "43",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Eli&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Eli&year=2021"
+        }
+      ],
+      "given_name": "Stacelynn K.M.",
+      "family_name": "Eli",
+      "email": "repeli@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8465",
+          "fax": "808-586-8469",
+          "address": "Hawaii State Capitol, Room 418",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/21babd87-7071-487d-bfdc-d28fcae4f4c2",
+      "name": "Kurt Fevella",
+      "party": [
+        {
+          "name": "Republican"
+        }
+      ],
+      "roles": [
+        {
+          "district": "19",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=fevella&year=2021"
+        }
+      ],
+      "given_name": "Kurt",
+      "family_name": "Fevella",
+      "email": "senfevella@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6360",
+          "fax": "808-586-6361",
+          "address": "Hawaii State Capitol, Room 217",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/63a59b77-4a41-47bc-b337-7538ebcd65f3",
+      "name": "Mike Gabbard",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "20",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=gabbard&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=gabbard&year=2021"
+        }
+      ],
+      "given_name": "Mike",
+      "family_name": "Gabbard",
+      "email": "sengabbard@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6830",
+          "fax": "808-586-6679",
+          "address": "Hawaii State Capitol, Room 201",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f6375df9-208b-4c7b-a787-111f1e0c530c",
+      "name": "Sonny Ganaden",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "30",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Ganaden&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Ganaden&year=2021"
+        }
+      ],
+      "given_name": "Sonny",
+      "family_name": "Ganaden",
+      "email": "repganaden@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6010",
+          "fax": "808-586-6011",
+          "address": "Hawaii State Capitol, Room 330",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/ae150365-fc0c-4d36-82ba-51e656362255",
+      "name": "Cedric Asuega Gates",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "44",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=gates&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=gates&year=2021"
+        }
+      ],
+      "given_name": "Cedric Asuega",
+      "family_name": "Gates",
+      "email": "repgates@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8460",
+          "fax": "808-586-8464",
+          "address": "Hawaii State Capitol, Room 323",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/7cab300d-689b-415f-a3ba-60ee88f1c3d0",
+      "name": "Sharon E. Har",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "42",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=har&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=har&year=2021"
+        }
+      ],
+      "given_name": "Sharon E.",
+      "family_name": "Har",
+      "email": "rephar@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8500",
+          "fax": "808-586-8504",
+          "address": "Hawaii State Capitol, Room 318",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/75c755c2-a355-4d35-9d7a-3673c660909e",
+      "name": "Mark J. Hashem",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "18",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=hashem&year=2021"
+        }
+      ],
+      "given_name": "Mark J.",
+      "family_name": "Hashem",
+      "email": "rephashem@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6510",
+          "fax": "808-586-6511",
+          "address": "Hawaii State Capitol, Room 424",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/b7ebe10e-fa53-4079-9ca5-6ae83c0d5196",
+      "name": "Troy N. Hashimoto",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "8",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=hashimoto&year=2021"
+        }
+      ],
+      "given_name": "Troy N.",
+      "family_name": "Hashimoto",
+      "email": "rephashimoto@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9444",
+          "fax": "808-586-9499",
+          "address": "Hawaii State Capitol, Room 332",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/a9169ee0-5e36-4090-8b65-61fa56b6eb8a",
+      "name": "Daniel Holt",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "29",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=holt&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=holt&year=2021"
+        }
+      ],
+      "given_name": "Daniel",
+      "family_name": "Holt",
+      "email": "repholt@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6180",
+          "fax": "808-586-6189",
+          "address": "Hawaii State Capitol, Room 406",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/98871964-6cdc-49a0-acd2-310e352b31fc",
+      "name": "Linda Ichiyama",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "32",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ichiyama&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ichiyama&year=2021"
+        }
+      ],
+      "given_name": "Linda",
+      "family_name": "Ichiyama",
+      "email": "repichiyama@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6220",
+          "fax": "808-586-6221",
+          "address": "Hawaii State Capitol, Room 426",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/e6282b56-2b19-468b-979a-854ddcda1964",
+      "name": "Les Ihara",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "10",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ihara&year=2021"
+        }
+      ],
+      "given_name": "Les",
+      "family_name": "Ihara",
+      "email": "senihara@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6250",
+          "fax": "808-586-6251",
+          "address": "Hawaii State Capitol, Room 220",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/9ce5c874-0539-47f2-a6b5-cd2b1b316683",
+      "name": "Greggor Ilagan",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "4",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Ilagan&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Ilagan&year=2021"
+        }
+      ],
+      "given_name": "Greggor",
+      "family_name": "Ilagan",
+      "email": "repilagan@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6530",
+          "fax": "808-586-6531",
+          "address": "Hawaii State Capitol, Room 314",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f9199052-bc12-4678-8906-fd00acfe7909",
+      "name": "Lorraine R. Inouye",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "4",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=inouye&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=inouye&year=2021"
+        }
+      ],
+      "given_name": "Lorraine R.",
+      "family_name": "Inouye",
+      "email": "seninouye@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-7335",
+          "fax": "808-586-7339",
+          "address": "Hawaii State Capitol, Room 210",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f4d15242-eed4-4074-8cae-f0fe15e2145b",
+      "name": "Aaron Ling Johanson",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "31",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=johanson&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=johanson&year=2021"
+        }
+      ],
+      "given_name": "Aaron Ling",
+      "family_name": "Johanson",
+      "email": "repjohanson@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9470",
+          "fax": "808-586-9476",
+          "address": "Hawaii State Capitol, Room 436",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/cb44f0c7-18aa-4c95-af0d-ee6210d0ce82",
+      "name": "Dru Mamo Kanuha",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "3",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kanuha&year=2021"
+        }
+      ],
+      "given_name": "Dru Mamo",
+      "family_name": "Kanuha",
+      "email": "senkanuha@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9385",
+          "fax": "808-586-9391",
+          "address": "Hawaii State Capitol, Room 206",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/d6ebd5f0-3db4-46bb-abae-dff8acbb98ba",
+      "name": "Jeanne Kapela",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "5",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Kapela&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Kapela&year=2021"
+        }
+      ],
+      "given_name": "Jeanne",
+      "family_name": "Kapela",
+      "email": "repkapela@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9605",
+          "fax": "808-586-9608",
+          "address": "Hawaii State Capitol, Room 310",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/33bb03f5-1346-45eb-a74f-287f96cb3760",
+      "name": "Gilbert S.C. Keith-Agaran",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "5",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=keithagaran&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=keithagaran&year=2021"
+        }
+      ],
+      "given_name": "Gilbert S.C.",
+      "family_name": "Keith-Agaran",
+      "email": "senkeithagaran@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-7344",
+          "fax": "808-586-7348",
+          "address": "Hawaii State Capitol, Room 221",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/a2e110b7-3909-4273-b97f-ee88f95aaf29",
+      "name": "Jarrett Keohokalole",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "24",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=jkeohokalole&year=2021"
+        }
+      ],
+      "given_name": "Jarrett",
+      "family_name": "Keohokalole",
+      "email": "senkeohokalole@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-587-7215",
+          "fax": "808-587-7220",
+          "address": "Hawaii State Capitol, Room 231",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/00c33c06-19e5-4a2f-9d62-317547491f6d",
+      "name": "Michelle N. Kidani",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "18",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2021"
+        }
+      ],
+      "given_name": "Michelle N.",
+      "family_name": "Kidani",
+      "email": "senkidani@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-7100",
+          "fax": "808-586-7109",
+          "address": "Hawaii State Capitol, Room 228",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/61894a22-37c2-4b22-af8e-31518485368b",
+      "name": "Donna Mercado Kim",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "14",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kim&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kim&year=2021"
+        }
+      ],
+      "given_name": "Donna Mercado",
+      "family_name": "Kim",
+      "email": "senkim@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-587-7200",
+          "fax": "808-587-7205",
+          "address": "Hawaii State Capitol, Room 218",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f21f438e-62a4-42bf-8c4b-0ebdad53ef79",
+      "name": "Lisa Kitagawa",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "48",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Kitagawa&year=2021"
+        }
+      ],
+      "given_name": "Lisa",
+      "family_name": "Kitagawa",
+      "email": "repkitagawa@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8540",
+          "fax": "808-586-8544",
+          "address": "Hawaii State Capitol, Room 315",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/9c39d70a-5ee6-4016-a80f-30d379049611",
+      "name": "Bertrand Kobayashi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "19",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kobayashi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kobayashi&year=2021"
+        }
+      ],
+      "given_name": "Bertrand",
+      "family_name": "Kobayashi",
+      "email": "repkobayashi@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6310",
+          "fax": "808-586-6311",
+          "address": "Hawaii State Capitol, Room 403",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/bdfed742-b888-42fd-bf96-672b2f56e12d",
+      "name": "Dale T. Kobayashi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "23",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=dkobayashi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=dkobayashi&year=2021"
+        }
+      ],
+      "given_name": "Dale T.",
+      "family_name": "Kobayashi",
+      "email": "repdkobayashi@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8475",
+          "fax": "808-586-8479",
+          "address": "Hawaii State Capitol, Room 326",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/39c6735b-e024-4fd3-baa5-aaf92d2c5752",
+      "name": "Sam Satoru Kong",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "33",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kong&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kong&year=2021"
+        }
+      ],
+      "given_name": "Sam Satoru",
+      "family_name": "Kong",
+      "email": "repkong@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8455",
+          "fax": "808-586-8459",
+          "address": "Hawaii State Capitol, Room 313",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/da2fb2a2-09f2-431a-9c5c-ac211434e631",
+      "name": "Ronald D. Kouchi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "8",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=kouchi&year=2021"
+        }
+      ],
+      "given_name": "Ronald D.",
+      "family_name": "Kouchi",
+      "email": "senkouchi@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6030",
+          "fax": "808-586-6031",
+          "address": "Hawaii State Capitol, Room 409",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/a9bb63d4-cc1b-4df7-a664-ac3828ca7991",
+      "name": "Chris Lee",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "25",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=senclee&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=senclee&year=2021"
+        }
+      ],
+      "given_name": "Chris",
+      "family_name": "Lee",
+      "email": "senlee@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-587-8388",
+          "fax": "808-587-7240",
+          "address": "Hawaii State Capitol, Room 216",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/6bcbf519-88e6-457f-9139-e328b7b029de",
+      "name": "Matthew S. LoPresti",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "41",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=LoPresti&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=LoPresti&year=2021"
+        }
+      ],
+      "given_name": "Matthew S.",
+      "family_name": "LoPresti",
+      "email": "replopresti@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6080",
+          "fax": "808-586-6081",
+          "address": "Hawaii State Capitol, Room 333",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/3b963147-8861-4450-b17c-0bb21791ec0d",
+      "name": "Nicole E. Lowen",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "6",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=lowen&year=2021"
+        }
+      ],
+      "given_name": "Nicole E.",
+      "family_name": "Lowen",
+      "email": "replowen@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8400",
+          "fax": "808-586-8404",
+          "address": "Hawaii State Capitol, Room 425",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/e1099978-4ac1-4312-aad3-a61b19a04a72",
+      "name": "Sylvia Luke",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "25",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=luke&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=luke&year=2021"
+        }
+      ],
+      "given_name": "Sylvia",
+      "family_name": "Luke",
+      "email": "repluke@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6200",
+          "address": "Hawaii State Capitol, Room 306",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/6223a5a8-6bb1-4b54-a6ce-9d1e2b0c290f",
+      "name": "Lisa Marten",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "51",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Marten&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Marten&year=2021"
+        }
+      ],
+      "given_name": "Lisa",
+      "family_name": "Marten",
+      "email": "repmarten@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9450",
+          "fax": "808-586-9456",
+          "address": "Hawaii State Capitol, Room 311",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/499e7d83-a6fb-4f84-a4d2-9da92f8047b5",
+      "name": "Scot Z. Matayoshi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "49",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Matayoshi&year=2021"
+        }
+      ],
+      "given_name": "Scot Z.",
+      "family_name": "Matayoshi",
+      "email": "repmatayoshi@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8470",
+          "fax": "808-586-8474",
+          "address": "Hawaii State Capitol, Room 331",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/eb83662c-5617-4d30-86ca-a209977a12cf",
+      "name": "Lauren Matsumoto",
+      "party": [
+        {
+          "name": "Republican"
+        }
+      ],
+      "roles": [
+        {
+          "district": "45",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=matsumoto&year=2021"
+        }
+      ],
+      "given_name": "Lauren",
+      "family_name": "Matsumoto",
+      "email": "repmatsumoto@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9490",
+          "fax": "808-586-9496",
+          "address": "Hawaii State Capitol, Room 443",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/4e150ff2-3529-4340-ab64-38ce950bfb8d",
+      "name": "Bob McDermott",
+      "party": [
+        {
+          "name": "Republican"
+        }
+      ],
+      "roles": [
+        {
+          "district": "40",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mcdermott&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mcdermott&year=2021"
+        }
+      ],
+      "given_name": "Bob",
+      "family_name": "McDermott",
+      "email": "repmcdermott@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9730",
+          "fax": "808-586-9738",
+          "address": "Hawaii State Capitol, Room 427",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/fb6f8c63-0289-4499-956c-b62300159ce6",
+      "name": "Angus L.K. McKelvey",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "10",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mckelvey&year=2021"
+        }
+      ],
+      "given_name": "Angus L.K.",
+      "family_name": "McKelvey",
+      "email": "repmckelvey@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6160",
+          "fax": "808-586-6161",
+          "address": "Hawaii State Capitol, Room 444",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/8f72123b-fdc5-4e24-bfab-0364852bb2e2",
+      "name": "Bennette E. Misalucha",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "16",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=misalucha&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=misalucha&year=2021"
+        }
+      ],
+      "given_name": "Bennette E.",
+      "family_name": "Misalucha",
+      "email": "senmisalucha@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6230",
+          "fax": "808-586-6231",
+          "address": "Hawaii State Capitol, Room 215",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/c57c5624-8b5d-4412-97e7-27d76d09a014",
+      "name": "John M. Mizuno",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "28",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mizuno&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=mizuno&year=2021"
+        }
+      ],
+      "given_name": "John M.",
+      "family_name": "Mizuno",
+      "email": "repmizuno@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6050",
+          "fax": "808-586-6051",
+          "address": "Hawaii State Capitol, Room 402",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/ab3f0495-cbfb-4769-8464-12e8906e25be",
+      "name": "Dee Morikawa",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "16",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=morikawa&year=2021"
+        }
+      ],
+      "given_name": "Dee",
+      "family_name": "Morikawa",
+      "email": "repmorikawa@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6280",
+          "fax": "808-586-6281",
+          "address": "Hawaii State Capitol, Room 434",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/3dc0f145-948c-48a4-825f-8cbafec97e0e",
+      "name": "Sharon Y. Moriwaki",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "12",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=moriwaki&year=2021"
+        }
+      ],
+      "given_name": "Sharon Y.",
+      "family_name": "Moriwaki",
+      "email": "senmoriwaki@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6740",
+          "fax": "808-586-6829",
+          "address": "Hawaii State Capitol, Room 223",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/590aafec-3564-4a1f-a244-c94d023e4f32",
+      "name": "Nadine K. Nakamura",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "14",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nakamura&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nakamura&year=2021"
+        }
+      ],
+      "given_name": "Nadine K.",
+      "family_name": "Nakamura",
+      "email": "repnakamura@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8435",
+          "fax": "808-586-8437",
+          "address": "Hawaii State Capitol, Room 442",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/c5a2c62b-a3e7-4d6f-968e-c1f3916ea0fa",
+      "name": "Mark M. Nakashima",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "1",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nakashima&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nakashima&year=2021"
+        }
+      ],
+      "given_name": "Mark M.",
+      "family_name": "Nakashima",
+      "email": "repnakashima@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6680",
+          "fax": "808-586-6684",
+          "address": "Hawaii State Capitol, Room 432",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/6580cd1b-7c42-455c-a715-771dd4b5dc15",
+      "name": "Clarence K. Nishihara",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "17",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nishihara&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nishihara&year=2021"
+        }
+      ],
+      "given_name": "Clarence K.",
+      "family_name": "Nishihara",
+      "email": "sennishihara@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6970",
+          "fax": "808-586-6879",
+          "address": "Hawaii State Capitol, Room 214",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/059e0954-3836-44a9-961d-b39c94bd4450",
+      "name": "Scott Y. Nishimoto",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "21",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nishimoto&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=nishimoto&year=2021"
+        }
+      ],
+      "given_name": "Scott Y.",
+      "family_name": "Nishimoto",
+      "email": "repnishimoto@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8515",
+          "fax": "808-586-8519",
+          "address": "Hawaii State Capitol, Room 421",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/29bd2903-0c59-43e8-a79b-582b7442d350",
+      "name": "Takashi Ohno",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "27",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ohno&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ohno&year=2021"
+        }
+      ],
+      "given_name": "Takashi",
+      "family_name": "Ohno",
+      "email": "repohno@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9415",
+          "fax": "808-586-9421",
+          "address": "Hawaii State Capitol, Room 435",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/25ced4ef-6762-4525-888e-bf64aca9f017",
+      "name": "Val Okimoto",
+      "party": [
+        {
+          "name": "Republican"
+        }
+      ],
+      "roles": [
+        {
+          "district": "36",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=okimoto&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=okimoto&year=2021"
+        }
+      ],
+      "given_name": "Val",
+      "family_name": "Okimoto",
+      "email": "repokimoto@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-9460",
+          "fax": "808-586-9466",
+          "address": "Hawaii State Capitol, Room 319",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/9acc04f5-422f-4696-be0d-f10e30689e5f",
+      "name": "Richard H.K. Onishi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "3",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=onishi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=onishi&year=2021"
+        }
+      ],
+      "given_name": "Richard H.K.",
+      "family_name": "Onishi",
+      "email": "reponishi@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6120",
+          "fax": "808-586-6121",
+          "address": "Hawaii State Capitol, Room 438",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/46c55b69-a961-453f-bf7b-b279f0b44c68",
+      "name": "Amy A. Perruso",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "46",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=perruso&year=2021"
+        }
+      ],
+      "given_name": "Amy A.",
+      "family_name": "Perruso",
+      "email": "repperruso@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6700",
+          "fax": "808-586-6702",
+          "address": "Hawaii State Capitol, Room 303",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/36a19c88-9af6-4479-96ec-49786740de43",
+      "name": "Sean Quinlan",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "47",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=quinlan&year=2021"
+        }
+      ],
+      "given_name": "Sean",
+      "family_name": "Quinlan",
+      "email": "repquinlan@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6380",
+          "fax": "808-586-6381",
+          "address": "Hawaii State Capitol, Room 304",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/2cc6f14d-67b9-4e6a-9d60-8d55311dc2f7",
+      "name": "Karl Rhoads",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "13",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=krhoads&year=2021"
+        }
+      ],
+      "given_name": "Karl",
+      "family_name": "Rhoads",
+      "email": "senrhoads@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6130",
+          "fax": "808-586-6131",
+          "address": "Hawaii State Capitol, Room 204",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/8f0b9147-94db-4de1-8c0d-d8b3c8d3d1aa",
+      "name": "Gil Riviere",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "23",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=riviere&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=riviere&year=2021"
+        }
+      ],
+      "given_name": "Gil",
+      "family_name": "Riviere",
+      "email": "senriviere@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-7330",
+          "fax": "808-586-7334",
+          "address": "Hawaii State Capitol, Room 202",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/b51ec2c6-9ae7-43df-9301-d43d7dbda840",
+      "name": "Scott K. Saiki",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "26",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=saiki&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=saiki&year=2021"
+        }
+      ],
+      "given_name": "Scott K.",
+      "family_name": "Saiki",
+      "email": "repsaiki@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6100",
+          "fax": "808-586-6101",
+          "address": "Hawaii State Capitol, Room 431",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/9fce6160-7ff6-4082-9036-05e52b560e53",
+      "name": "Joy A. San Buenaventura",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "2",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=sanbuenaventura&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=sanbuenaventura&year=2021"
+        }
+      ],
+      "given_name": "Joy A.",
+      "family_name": "San Buenaventura",
+      "email": "sensanbuenaventura@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6890",
+          "fax": "808-586-6899",
+          "address": "Hawaii State Capitol, Room 213",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/dc09cb61-81d3-4933-bead-1f485fd90384",
+      "name": "Jackson D. Sayama",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "20",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Sayama&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Sayama&year=2021"
+        }
+      ],
+      "given_name": "Jackson D.",
+      "family_name": "Sayama",
+      "email": "repsayama@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6900",
+          "fax": "808-586-6910",
+          "address": "Hawaii State Capitol, Room 324",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/422ea967-76ad-44a0-954b-7e9fda36bfe3",
+      "name": "Maile S.L. Shimabukuro",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "21",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=shimabukuro&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=shimabukuro&year=2021"
+        }
+      ],
+      "given_name": "Maile S.L.",
+      "family_name": "Shimabukuro",
+      "email": "senshimabukuro@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-7793",
+          "fax": "808-586-7797",
+          "address": "Hawaii State Capitol, Room 222",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/ef0e616a-f068-458a-983d-ed0318f62b78",
+      "name": "Gregg Takayama",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "34",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=takayama&year=2021"
+        }
+      ],
+      "given_name": "Gregg",
+      "family_name": "Takayama",
+      "email": "reptakayama@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6340",
+          "fax": "808-586-6341",
+          "address": "Hawaii State Capitol, Room 404",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/32c2c11c-689d-406e-8ff1-6e8056135740",
+      "name": "Roy M. Takumi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "35",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=takumi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=takumi&year=2021"
+        }
+      ],
+      "given_name": "Roy M.",
+      "family_name": "Takumi",
+      "email": "reptakumi@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6170",
+          "fax": "808-586-6171",
+          "address": "Hawaii State Capitol, Room 433",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/1e8fb450-08e6-4872-be34-1c1f5c03fad9",
+      "name": "Adrian K. Tam",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "22",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=Tam&year=2021"
+        }
+      ],
+      "given_name": "Adrian K.",
+      "family_name": "Tam",
+      "email": "reptam@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8520",
+          "fax": "808-586-8524",
+          "address": "Hawaii State Capitol, Room 317",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/905456d6-a75a-44d5-9abc-07e4e6f8b416",
+      "name": "Brian T. Taniguchi",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "11",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=taniguchi&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=taniguchi&year=2021"
+        }
+      ],
+      "given_name": "Brian T.",
+      "family_name": "Taniguchi",
+      "email": "sentaniguchi@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6460",
+          "fax": "808-586-6461",
+          "address": "Hawaii State Capitol, Room 219",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/c4e0d4b5-7a1b-4365-89cd-4d6ada85bb29",
+      "name": "David A. Tarnas",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "7",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=tarnas&year=2021"
+        }
+      ],
+      "given_name": "David A.",
+      "family_name": "Tarnas",
+      "email": "reptarnas@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8510",
+          "fax": "808-586-8514",
+          "address": "Hawaii State Capitol, Room 316",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f1f4175b-590f-442c-b93b-855eeb58ba34",
+      "name": "Chris Todd",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "2",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=todd&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=todd&year=2021"
+        }
+      ],
+      "given_name": "Chris",
+      "family_name": "Todd",
+      "email": "reptodd@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8480",
+          "fax": "808-586-8484",
+          "address": "Hawaii State Capitol, Room 322",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/a9abaf03-16db-4be6-9972-40edb1b35f0a",
+      "name": "James Kunane Tokioka",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "15",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=tokioka&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=tokioka&year=2021"
+        }
+      ],
+      "given_name": "James Kunane",
+      "family_name": "Tokioka",
+      "email": "reptokioka@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6270",
+          "fax": "808-586-6271",
+          "address": "Hawaii State Capitol, Room 305",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/6123b52d-8b1c-4dc1-8aac-6c5ee6809d2a",
+      "name": "Glenn Wakai",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "15",
+          "type": "upper",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=wakai&year=2021"
+        }
+      ],
+      "given_name": "Glenn",
+      "family_name": "Wakai",
+      "email": "senwakai@capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8585",
+          "fax": "808-586-8588",
+          "address": "Hawaii State Capitol, Room 407",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/4ab3873c-20df-4bd4-8775-9a1be410f32d",
+      "name": "Gene Ward",
+      "party": [
+        {
+          "name": "Republican"
+        }
+      ],
+      "roles": [
+        {
+          "district": "17",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ward&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=ward&year=2021"
+        }
+      ],
+      "given_name": "Gene",
+      "family_name": "Ward",
+      "email": "repward@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6420",
+          "fax": "808-586-6421",
+          "address": "Hawaii State Capitol, Room 302",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/4dc4880d-24e9-40f6-aa99-0371314ac905",
+      "name": "Tina Wildberger",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "11",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=wildberger&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=wildberger&year=2021"
+        }
+      ],
+      "given_name": "Tina",
+      "family_name": "Wildberger",
+      "email": "repwildberger@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-8525",
+          "fax": "808-586-8529",
+          "address": "Hawaii State Capitol, Room 327",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/5c1ff3b3-1ed7-4a66-9162-e3ad6619bf10",
+      "name": "Justin H. Woodson",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "9",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=woodson&year=2021"
+        }
+      ],
+      "given_name": "Justin H.",
+      "family_name": "Woodson",
+      "email": "repwoodson@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6210",
+          "fax": "808-586-6211",
+          "address": "Hawaii State Capitol, Room 405",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/f2a1a3bd-e366-42ec-8e8d-59341b2ddd8a",
+      "name": "Ryan I. Yamane",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "37",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=yamane&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=yamane&year=2021"
+        }
+      ],
+      "given_name": "Ryan I.",
+      "family_name": "Yamane",
+      "email": "repyamane@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6150",
+          "fax": "808-586-6151",
+          "address": "Hawaii State Capitol, Room 420",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "id": "ocd-person/77ceab92-c686-40df-9d73-f8882c837b1c",
+      "name": "Kyle T. Yamashita",
+      "party": [
+        {
+          "name": "Democratic"
+        }
+      ],
+      "roles": [
+        {
+          "district": "12",
+          "type": "lower",
+          "jurisdiction": "ocd-jurisdiction/country:us/state:hi/government"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2021"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=yamashita&year=2021"
+        }
+      ],
+      "given_name": "Kyle T.",
+      "family_name": "Yamashita",
+      "email": "repyamashita@Capitol.hawaii.gov",
+      "contact_details": [
+        {
+          "voice": "808-586-6330",
+          "fax": "808-586-6331",
+          "address": "Hawaii State Capitol, Room 422",
+          "note": "Capitol Office"
+        }
+      ]
+    },
+    "__next__": null
+  }
+]
