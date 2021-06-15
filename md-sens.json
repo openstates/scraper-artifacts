@@ -1,0 +1,378 @@
+[
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "47",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/augustine01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "29",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/bailey01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "32",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/beidle01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "24",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/benson"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "38",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/carozza02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "41",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/carter01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "34",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/cassilly02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "2",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/corderman02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "37",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/eckardt"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "1",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/edwards"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "30",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/elfreth01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "28",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/ellis01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "15",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/feldman"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "46",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/ferguson"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "35",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/gallion01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "25",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/griffith01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "13",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/guzzone"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "40",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/hayes02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "36",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/hershey"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "9",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/hester01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "11",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/hettleman02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "4",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/hough"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "27",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/jackson03"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "7",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/jennings"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "17",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/kagan01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "10",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/kelley"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "39",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/king"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "8",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/klausmeier"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "19",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/kramer02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "12",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/lam02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "16",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/lee"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "45",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/mccray02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "26",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/patterson03"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "23",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/peters"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "22",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/pinsky"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "5",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/ready01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "33",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/reilly"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "21",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/rosapepe"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "6",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/salling01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "31",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/simonaire"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "20",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/smith02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "44",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/sydnor02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "18",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/waldstreicher1"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "43",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/washington01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "42",
+      "party": "Republican"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/west02"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "3",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/young"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "14",
+      "party": "Democrat"
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/zucker01"
+  }
+]

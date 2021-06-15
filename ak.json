@@ -1,0 +1,2762 @@
+[
+  {
+    "data": {
+      "name": "Tom Begich",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "J",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/bch.jpg",
+      "email": "Senator.Tom.Begich@akleg.gov",
+      "given_name": "Tom",
+      "family_name": "Begich",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=bch",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 11; Juneau, AK, 99801",
+        "voice": "907-465-3704",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Click Bishop",
+      "state": "ak",
+      "party": "Republican",
+      "district": "C",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/bis.jpg",
+      "email": "Senator.Click.Bishop@akleg.gov",
+      "given_name": "Click",
+      "family_name": "Bishop",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=bis",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 516; Juneau, AK, 99801",
+        "voice": "907-465-2327",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Ben Carpenter",
+      "state": "ak",
+      "party": "Republican",
+      "district": "29",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/cae.jpg",
+      "email": "Representative.Ben.Carpenter@akleg.gov",
+      "given_name": "Ben",
+      "family_name": "Carpenter",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=cae",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 400; Juneau, AK, 99801",
+        "voice": "907-465-3779",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Matt Claman",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "21",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/cla.jpg",
+      "email": "Representative.Matt.Claman@akleg.gov",
+      "given_name": "Matt",
+      "family_name": "Claman",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=cla",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 118; Juneau, AK, 99801",
+        "voice": "907-465-4919",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Mia Costello",
+      "state": "ak",
+      "party": "Republican",
+      "district": "K",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/cos.jpg",
+      "email": "Senator.Mia.Costello@akleg.gov",
+      "given_name": "Mia",
+      "family_name": "Costello",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=cos",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 119; Juneau, AK, 99801",
+        "voice": "907-465-4968",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Mike Cronk",
+      "state": "ak",
+      "party": "Republican",
+      "district": "6",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/crn.jpg",
+      "email": "Representative.Mike.Cronk@akleg.gov",
+      "given_name": "Mike",
+      "family_name": "Cronk",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=crn",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 112; Juneau, AK, 99801",
+        "voice": "907-465-4527",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Harriet Drummond",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "18",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/dru.jpg",
+      "email": "Representative.Harriet.Drummond@akleg.gov",
+      "given_name": "Harriet",
+      "family_name": "Drummond",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=dru",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 108; Juneau, AK, 99801",
+        "voice": "907-465-3875",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "David Eastman",
+      "state": "ak",
+      "party": "Republican",
+      "district": "10",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/eas.jpg",
+      "email": "Representative.David.Eastman@akleg.gov",
+      "given_name": "David",
+      "family_name": "Eastman",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=eas",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 422; Juneau, AK, 99801",
+        "voice": "907-465-2186",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Bryce Edgmon",
+      "state": "ak",
+      "party": "Independent",
+      "district": "37",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/edg.jpg",
+      "email": "Representative.Bryce.Edgmon@akleg.gov",
+      "given_name": "Bryce",
+      "family_name": "Edgmon",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=edg",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 410; Juneau, AK, 99801",
+        "voice": "907-465-4451",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Zack Fields",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "20",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/fie.jpg",
+      "email": "Representative.Zack.Fields@akleg.gov",
+      "given_name": "Zack",
+      "family_name": "Fields",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=fie",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 24; Juneau, AK, 99801",
+        "voice": "907-465-2647",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Neal Foster",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "39",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/fon.jpg",
+      "email": "Representative.Neal.Foster@akleg.gov",
+      "given_name": "Neal",
+      "family_name": "Foster",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=fon",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 505; Juneau, AK, 99801",
+        "voice": "907-465-3789",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Ronald Gillham",
+      "state": "ak",
+      "party": "Republican",
+      "district": "30",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/gih.jpg",
+      "email": "Representative.Ronald.Gillham@akleg.gov",
+      "given_name": "Ronald",
+      "family_name": "Gillham",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=gih",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 409; Juneau, AK, 99801",
+        "voice": "907-465-2693",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Elvi Gray-Jackson",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "I",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/gra.jpg",
+      "email": "Senator.Elvi.Gray-Jackson@akleg.gov",
+      "given_name": "Elvi",
+      "family_name": "Gray-Jackson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=gra",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 417; Juneau, AK, 99801",
+        "voice": "907-465-4930",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Sara Hannan",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "33",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/hnn.jpg",
+      "email": "Representative.Sara.Hannan@akleg.gov",
+      "given_name": "Sara",
+      "family_name": "Hannan",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=hnn",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 204; Juneau, AK, 99801",
+        "voice": "907-465-4766",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Lyman Hoffman",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "S",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/hof.jpg",
+      "email": "Senator.Lyman.Hoffman@akleg.gov",
+      "given_name": "Lyman",
+      "family_name": "Hoffman",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=hof",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 508; Juneau, AK, 99801",
+        "voice": "907-465-4453",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Roger Holland",
+      "state": "ak",
+      "party": "Republican",
+      "district": "N",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/hld.jpg",
+      "email": "Senator.Roger.Holland@akleg.gov",
+      "given_name": "Roger",
+      "family_name": "Holland",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=hld",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "907-465-4843",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Grier Hopkins",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "4",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/hpk.jpg",
+      "email": "Representative.Grier.Hopkins@akleg.gov",
+      "given_name": "Grier",
+      "family_name": "Hopkins",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=hpk",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 434; Juneau, AK, 99801",
+        "voice": "907-465-4457",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Shelley Hughes",
+      "state": "ak",
+      "party": "Republican",
+      "district": "F",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/hus.jpg",
+      "email": "Senator.Shelley.Hughes@akleg.gov",
+      "given_name": "Shelley",
+      "family_name": "Hughes",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=hus",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 30; Juneau, AK, 99801",
+        "voice": "907-465-3743",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "DeLena Johnson",
+      "state": "ak",
+      "party": "Republican",
+      "district": "11",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/jhs.jpg",
+      "email": "Representative.DeLena.Johnson@akleg.gov",
+      "given_name": "DeLena",
+      "family_name": "Johnson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=jhs",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 500; Juneau, AK, 99801",
+        "voice": "907-465-4958",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Andy Josephson",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "17",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/jos.jpg",
+      "email": "Representative.Andy.Josephson@akleg.gov",
+      "given_name": "Andy",
+      "family_name": "Josephson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=jos",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 502; Juneau, AK, 99801",
+        "voice": "907-465-4939",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "James Kaufman",
+      "state": "ak",
+      "party": "Republican",
+      "district": "28",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/kau.jpg",
+      "email": "Representative.James.Kaufman@akleg.gov",
+      "given_name": "James",
+      "family_name": "Kaufman",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=kau",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 405; Juneau, AK, 99801",
+        "voice": "907-465-4949",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Scott Kawasaki",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "A",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/kaw.jpg",
+      "email": "Senator.Scott.Kawasaki@akleg.gov",
+      "given_name": "Scott",
+      "family_name": "Kawasaki",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=kaw",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 7; Juneau, AK, 99801",
+        "voice": "907-465-3466",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Jesse Kiehl",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "Q",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/kie.jpg",
+      "email": "Senator.Jesse.Kiehl@akleg.gov",
+      "given_name": "Jesse",
+      "family_name": "Kiehl",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=kie",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 419; Juneau, AK, 99801",
+        "voice": "907-465-4947",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Jonathan Kreiss-Tomkins",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "35",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/kre.jpg",
+      "email": "Representative.Jonathan.Kreiss-Tomkins@akleg.gov",
+      "given_name": "Jonathan",
+      "family_name": "Kreiss-Tomkins",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=kre",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 411; Juneau, AK, 99801",
+        "voice": "907-465-3732",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Christopher Kurka",
+      "state": "ak",
+      "party": "Republican",
+      "district": "7",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/kur.jpg",
+      "email": "Representative.Christopher.Kurka@akleg.gov",
+      "given_name": "Christopher",
+      "family_name": "Kurka",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=kur",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 420; Juneau, AK, 99801",
+        "voice": "907-465-4833",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Bart LeBon",
+      "state": "ak",
+      "party": "Republican",
+      "district": "1",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/leb.jpg",
+      "email": "Representative.Bart.LeBon@akleg.gov",
+      "given_name": "Bart",
+      "family_name": "LeBon",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=leb",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 415; Juneau, AK, 99801",
+        "voice": "907-465-3709",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Kevin McCabe",
+      "state": "ak",
+      "party": "Republican",
+      "district": "8",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/mca.jpg",
+      "email": "Representative.Kevin.McCabe@akleg.gov",
+      "given_name": "Kevin",
+      "family_name": "McCabe",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mca",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 430; Juneau, AK, 99801",
+        "voice": "907-465-2679",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Ken McCarty",
+      "state": "ak",
+      "party": "Republican",
+      "district": "13",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/mcc.jpg",
+      "email": "Representative.Ken.McCarty@akleg.gov",
+      "given_name": "Ken",
+      "family_name": "McCarty",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mcc",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 428; Juneau, AK, 99801",
+        "voice": "907-465-3873",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Tom McKay",
+      "state": "ak",
+      "party": "Republican",
+      "district": "24",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/mck.jpg",
+      "email": "Representative.Tom.McKay@akleg.gov",
+      "given_name": "Tom",
+      "family_name": "McKay",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mck",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 110; Juneau, AK, 99801",
+        "voice": "907-465-4993",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Kelly Merrick",
+      "state": "ak",
+      "party": "Republican",
+      "district": "14",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/mrr.jpg",
+      "email": "Representative.Kelly.Merrick@akleg.gov",
+      "given_name": "Kelly",
+      "family_name": "Merrick",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mrr",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 511; Juneau, AK, 99801",
+        "voice": "907-465-3777",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Peter Micciche",
+      "state": "ak",
+      "party": "Republican",
+      "district": "O",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/mhe.jpg",
+      "email": "Senator.Peter.Micciche@akleg.gov",
+      "given_name": "Peter",
+      "family_name": "Micciche",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mhe",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 111; Juneau, AK, 99801",
+        "voice": "907-465-2828",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Robert Myers",
+      "state": "ak",
+      "party": "Republican",
+      "district": "B",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/mye.jpg",
+      "email": "Senator.Robert.Myers@akleg.gov",
+      "given_name": "Robert",
+      "family_name": "Myers",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=mye",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "907-465-3719",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "David Nelson",
+      "state": "ak",
+      "party": "Republican",
+      "district": "15",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/ned.jpg",
+      "email": "Representative.David.Nelson@akleg.gov",
+      "given_name": "David",
+      "family_name": "Nelson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=ned",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 13; Juneau, AK, 99801",
+        "voice": "907-465-4998",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Donald Olson",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "T",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/ols.jpg",
+      "email": "Senator.Donald.Olson@akleg.gov",
+      "given_name": "Donald",
+      "family_name": "Olson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=ols",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 514; Juneau, AK, 99801",
+        "voice": "907-465-3707",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Dan Ortiz",
+      "state": "ak",
+      "party": "Independent",
+      "district": "36",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/ort.jpg",
+      "email": "Representative.Dan.Ortiz@akleg.gov",
+      "given_name": "Dan",
+      "family_name": "Ortiz",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=ort",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 513; Juneau, AK, 99801",
+        "voice": "907-465-3824",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Josiah Patkotak",
+      "state": "ak",
+      "party": "Independent",
+      "district": "40",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/pkt.jpg",
+      "email": "Representative.Josiah.Patkotak@akleg.gov",
+      "given_name": "Josiah",
+      "family_name": "Patkotak",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=pkt",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 102; Juneau, AK, 99801",
+        "voice": "907-465-3473",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Mike Prax",
+      "state": "ak",
+      "party": "Republican",
+      "district": "3",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/pra.jpg",
+      "email": "Representative.Mike.Prax@akleg.gov",
+      "given_name": "Mike",
+      "family_name": "Prax",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=pra",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 114; Juneau, AK, 99801",
+        "voice": "907-465-4797",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Sara Rasmussen",
+      "state": "ak",
+      "party": "Republican",
+      "district": "22",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/ras.jpg",
+      "email": "Representative.Sara.Rasmussen@akleg.gov",
+      "given_name": "Sara",
+      "family_name": "Rasmussen",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=ras",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 418; Juneau, AK, 99801",
+        "voice": "907-465-3892",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "George Rauscher",
+      "state": "ak",
+      "party": "Republican",
+      "district": "9",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/rau.jpg",
+      "email": "Representative.George.Rauscher@akleg.gov",
+      "given_name": "George",
+      "family_name": "Rauscher",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=rau",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 412; Juneau, AK, 99801",
+        "voice": "907-465-4859",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Lora Reinbold",
+      "state": "ak",
+      "party": "Republican",
+      "district": "G",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/rei.jpg",
+      "email": "Senator.Lora.Reinbold@akleg.gov",
+      "given_name": "Lora",
+      "family_name": "Reinbold",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=rei",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 427; Juneau, AK, 99801",
+        "voice": "907-465-3822",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Joshua Revak",
+      "state": "ak",
+      "party": "Republican",
+      "district": "M",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/rvk.jpg",
+      "email": "Senator.Joshua.Revak@akleg.gov",
+      "given_name": "Joshua",
+      "family_name": "Revak",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=rvk",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 125; Juneau, AK, 99801",
+        "voice": "907-465-3879",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Calvin Schrage",
+      "state": "ak",
+      "party": "Independent",
+      "district": "25",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/scg.jpg",
+      "email": "Representative.Calvin.Schrage@akleg.gov",
+      "given_name": "Calvin",
+      "family_name": "Schrage",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=scg",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 104; Juneau, AK, 99801",
+        "voice": "907-465-4931",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Laddie Shaw",
+      "state": "ak",
+      "party": "Republican",
+      "district": "26",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/shw.jpg",
+      "email": "Representative.Laddie.Shaw@akleg.gov",
+      "given_name": "Laddie",
+      "family_name": "Shaw",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=shw",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 426; Juneau, AK, 99801",
+        "voice": "907-465-4945",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Mike Shower",
+      "state": "ak",
+      "party": "Republican",
+      "district": "E",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/sho.jpg",
+      "email": "Senator.Mike.Shower@akleg.gov",
+      "given_name": "Mike",
+      "family_name": "Shower",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=sho",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 429; Juneau, AK, 99801",
+        "voice": "907-465-6600",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Liz Snyder",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "27",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/sny.jpg",
+      "email": "Representative.Liz.Snyder@akleg.gov",
+      "given_name": "Liz",
+      "family_name": "Snyder",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=sny",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 421; Juneau, AK, 99801",
+        "voice": "907-465-3438",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Ivy Spohnholz",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "16",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/spn.jpg",
+      "email": "Representative.Ivy.Spohnholz@akleg.gov",
+      "given_name": "Ivy",
+      "family_name": "Spohnholz",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=spn",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 406; Juneau, AK, 99801",
+        "voice": "907-465-4940",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Bert Stedman",
+      "state": "ak",
+      "party": "Republican",
+      "district": "R",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/smn.jpg",
+      "email": "Senator.Bert.Stedman@akleg.gov",
+      "given_name": "Bert",
+      "family_name": "Stedman",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=smn",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 518; Juneau, AK, 99801",
+        "voice": "907-465-3873",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Gary Stevens",
+      "state": "ak",
+      "party": "Republican",
+      "district": "P",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/stg.jpg",
+      "email": "Senator.Gary.Stevens@akleg.gov",
+      "given_name": "Gary",
+      "family_name": "Stevens",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=stg",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 103; Juneau, AK, 99801",
+        "voice": "907-465-4925",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Andi Story",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "34",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/sto.jpg",
+      "email": "Representative.Andi.Story@akleg.gov",
+      "given_name": "Andi",
+      "family_name": "Story",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=sto",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 403; Juneau, AK, 99801",
+        "voice": "907-465-3744",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Louise Stutes",
+      "state": "ak",
+      "party": "Republican",
+      "district": "32",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/sts.jpg",
+      "email": "Representative.Louise.Stutes@akleg.gov",
+      "given_name": "Louise",
+      "family_name": "Stutes",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=sts",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 208; Juneau, AK, 99801",
+        "voice": "907-465-2487",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Geran Tarr",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "19",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/tar.jpg",
+      "email": "Representative.Geran.Tarr@akleg.gov",
+      "given_name": "Geran",
+      "family_name": "Tarr",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=tar",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 128; Juneau, AK, 99801",
+        "voice": "907-465-3424",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Steve Thompson",
+      "state": "ak",
+      "party": "Republican",
+      "district": "2",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/thp.jpg",
+      "email": "Representative.Steve.Thompson@akleg.gov",
+      "given_name": "Steve",
+      "family_name": "Thompson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=thp",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 432; Juneau, AK, 99801",
+        "voice": "907-465-3004",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Cathy Tilton",
+      "state": "ak",
+      "party": "Republican",
+      "district": "12",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/tlt.jpg",
+      "email": "Representative.Cathy.Tilton@akleg.gov",
+      "given_name": "Cathy",
+      "family_name": "Tilton",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=tlt",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 404; Juneau, AK, 99801",
+        "voice": "907-465-2199",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Chris Tuck",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "23",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/tuc.jpg",
+      "email": "Representative.Chris.Tuck@akleg.gov",
+      "given_name": "Chris",
+      "family_name": "Tuck",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=tuc",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 216; Juneau, AK, 99801",
+        "voice": "907-465-2095",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Sarah Vance",
+      "state": "ak",
+      "party": "Republican",
+      "district": "31",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/van.jpg",
+      "email": "Representative.Sarah.Vance@akleg.gov",
+      "given_name": "Sarah",
+      "family_name": "Vance",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=van",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 424; Juneau, AK, 99801",
+        "voice": "907-465-2689",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Natasha von Imhof",
+      "state": "ak",
+      "party": "Republican",
+      "district": "L",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/von.jpg",
+      "email": "Senator.Natasha.vonImhof@akleg.gov",
+      "given_name": "Natasha",
+      "family_name": "von Imhof",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=von",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 504; Juneau, AK, 99801",
+        "voice": "907-465-2995",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Bill Wielechowski",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "H",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/wie.jpg",
+      "email": "Senator.Bill.Wielechowski@akleg.gov",
+      "given_name": "Bill",
+      "family_name": "Wielechowski",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=wie",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 9; Juneau, AK, 99801",
+        "voice": "907-465-2435",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "David Wilson",
+      "state": "ak",
+      "party": "Republican",
+      "district": "D",
+      "chamber": "upper",
+      "image": "http://akleg.gov/images/legislators/wln.jpg",
+      "email": "Senator.David.Wilson@akleg.gov",
+      "given_name": "David",
+      "family_name": "Wilson",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=wln",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 121; Juneau, AK, 99801",
+        "voice": "907-465-3878",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Adam Wool",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "5",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/woo.jpg",
+      "email": "Representative.Adam.Wool@akleg.gov",
+      "given_name": "Adam",
+      "family_name": "Wool",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=woo",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 501; Juneau, AK, 99801",
+        "voice": "907-465-4976",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Tiffany Zulkosky",
+      "state": "ak",
+      "party": "Democratic",
+      "district": "38",
+      "chamber": "lower",
+      "image": "http://akleg.gov/images/legislators/zul.jpg",
+      "email": "Representative.Tiffany.Zulkosky@akleg.gov",
+      "given_name": "Tiffany",
+      "family_name": "Zulkosky",
+      "suffix": "",
+      "links": [
+        {
+          "url": "http://www.akleg.gov/basis/Member/Detail/32?code=zul",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://w3.akleg.gov/",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "State Capitol Room 416; Juneau, AK, 99801",
+        "voice": "907-465-4942",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  }
+]

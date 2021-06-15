@@ -1,0 +1,386 @@
+[
+  {
+    "data": {
+      "party": "r",
+      "district": "4",
+      "name": "Mark Allen"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/mark-allen"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "1",
+      "name": "Micheal Bergstrom"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/micheal-bergstrom"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "16",
+      "name": "Mary B. Boren"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/mary-b-boren"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "44",
+      "name": "Michael Brooks"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/michael-brooks"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "6",
+      "name": "David Bullard"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/david-bullard"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "5",
+      "name": "George Burns"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/george-burns"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "10",
+      "name": "Bill Coleman"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/bill-coleman"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "33",
+      "name": "Nathan Dahm"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/nathan-dahm"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "29",
+      "name": "Julie Daniels"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/julie-daniels"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "18",
+      "name": "Kim David"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/kim-david"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "34",
+      "name": "J.J. Dossett"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/jj-dossett"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "35",
+      "name": "Jo Anna Dossett"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/jo-anna-dossett"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "21",
+      "name": "Tom Dugger"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/tom-dugger"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "46",
+      "name": "Kay Floyd"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/kay-floyd"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "43",
+      "name": "Jessica Garvin"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/jessica-garvin"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "20",
+      "name": "Chuck Hall"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/chuck-hall"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "7",
+      "name": "Warren Hamilton"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/warren-hamilton"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "36",
+      "name": "John Haste"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/john-haste"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "40",
+      "name": "Carri Hicks"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/carri-hicks"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "38",
+      "name": "Brent Howard"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/brent-howard"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "26",
+      "name": "Darcy Jech"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/darcy-jech"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "17",
+      "name": "Shane Jett"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/shane-jett"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "31",
+      "name": "Chris Kidd"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/chris-kidd"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "30",
+      "name": "Julia Kirt"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/julia-kirt"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "12",
+      "name": "James Leewright"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/james-leewright"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "11",
+      "name": "Kevin Matthews"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/kevin-matthews"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "13",
+      "name": "Greg McCortney"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/greg-mccortney"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "22",
+      "name": "Jake Merrick"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/jake-merrick"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "32",
+      "name": "John Michael Montgomery"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/john-michael-montgomery"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "27",
+      "name": "Casey Murdock"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/casey-murdock"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "25",
+      "name": "Joe Newhouse"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/joe-newhouse"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "23",
+      "name": "Lonnie Paxton"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/lonnie-paxton"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "19",
+      "name": "Roland Pederson"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/roland-pederson"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "9",
+      "name": "Dewayne Pemberton"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/dewayne-pemberton"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "41",
+      "name": "Adam Pugh"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/adam-pugh"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "2",
+      "name": "Marty Quinn"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/marty-quinn"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "39",
+      "name": "Dave Rader"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/dave-rader"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "37",
+      "name": "Cody Rogers"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/cody-rogers"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "45",
+      "name": "Paul Rosino"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/paul-rosino"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "14",
+      "name": "Frank Simpson"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/frank-simpson"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "15",
+      "name": "Rob Standridge"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/rob-standridge"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "42",
+      "name": "Brenda Stanley"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/brenda-stanley"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "3",
+      "name": "Blake Stephens"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/blake-stephens"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "28",
+      "name": "Zack Taylor"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/zack-taylor"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "8",
+      "name": "Roger Thompson"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/roger-thompson"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "47",
+      "name": "Greg Treat"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/greg-treat"
+  },
+  {
+    "data": {
+      "party": "r",
+      "district": "24",
+      "name": "Darrell Weaver"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/darrell-weaver"
+  },
+  {
+    "data": {
+      "party": "d",
+      "district": "48",
+      "name": "George Young"
+    },
+    "__next__": "SenateDetail source=https://oksenate.gov/senators/george-young"
+  }
+]

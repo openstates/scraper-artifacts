@@ -1,0 +1,2108 @@
+[
+  {
+    "data": {
+      "last_name": "Adams",
+      "first_name": "Joe",
+      "district": 86,
+      "hometown": "University City",
+      "party": "D",
+      "voice": "573-751-4265",
+      "room": "135-AC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=086"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Aldridge",
+      "first_name": "Rasheen",
+      "district": 78,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-2383",
+      "room": "135-BB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=078"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Anderson",
+      "first_name": "Marlon",
+      "district": 76,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-7605",
+      "room": "135-BC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=076"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Andrews",
+      "first_name": "Allen",
+      "district": 1,
+      "hometown": "Grant City",
+      "party": "R",
+      "voice": "573-751-9465",
+      "room": "302-1",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=001"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Appelbaum",
+      "first_name": "LaDonna",
+      "district": 71,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-4183",
+      "room": "103-BC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=071"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Atchison",
+      "first_name": "Darrell",
+      "district": 153,
+      "hometown": "Williamsville",
+      "party": "R",
+      "voice": "573-751-1066",
+      "room": "115-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=153"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Aune",
+      "first_name": "Ashley",
+      "district": 14,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-3618",
+      "room": "109-E",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=014"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Bailey",
+      "first_name": "Dottie",
+      "district": 110,
+      "hometown": "Eureka",
+      "party": "R",
+      "voice": "573-751-0562",
+      "room": "404-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=110"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Baker",
+      "first_name": "Ben",
+      "district": 160,
+      "hometown": "Neosho",
+      "party": "R",
+      "voice": "573-751-9781",
+      "room": "201-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=160"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Bangert",
+      "first_name": "Gretchen",
+      "district": 69,
+      "hometown": "Florissant",
+      "party": "D",
+      "voice": "573-751-5365",
+      "room": "109-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=069"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Baringer",
+      "first_name": "Donna",
+      "district": 82,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-4220",
+      "room": "109-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=082"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Barnes",
+      "first_name": "Jerome",
+      "district": 28,
+      "hometown": "Raytown",
+      "party": "D",
+      "voice": "573-751-9851",
+      "room": "105-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=028"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Basye",
+      "first_name": "Chuck",
+      "district": 47,
+      "hometown": "Rocheport",
+      "party": "R",
+      "voice": "573-751-1501",
+      "room": "401-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=047"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Billington",
+      "first_name": "Hardy",
+      "district": 152,
+      "hometown": "Poplar Bluff",
+      "party": "R",
+      "voice": "573-751-4039",
+      "room": "201-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=152"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Black",
+      "first_name": "John",
+      "district": 137,
+      "hometown": "Marshfield",
+      "party": "R",
+      "voice": "573-751-3819",
+      "room": "410-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=137"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Black",
+      "first_name": "Rusty",
+      "district": 7,
+      "hometown": "Chillicothe",
+      "party": "R",
+      "voice": "573-751-2917",
+      "room": "112",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=007"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Bland Manlove",
+      "first_name": "Ashley",
+      "district": 26,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-2124",
+      "room": "101-I",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=026"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Boggs",
+      "first_name": "Mitch",
+      "district": 157,
+      "hometown": "LaRussell",
+      "party": "R",
+      "voice": "573-751-4077",
+      "room": "115-E",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=157"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Bosley",
+      "first_name": "LaKeySha",
+      "district": 79,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-6800",
+      "room": "101H",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=079"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Bromley",
+      "first_name": "Bob",
+      "district": 162,
+      "hometown": "Carl Junction",
+      "party": "R",
+      "voice": "573-751-7082",
+      "room": "403-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=162"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Brown",
+      "first_name": "Chris",
+      "district": 16,
+      "hometown": "Kansas City",
+      "party": "R",
+      "voice": "573-751-9458",
+      "room": "115-H",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=016"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Brown",
+      "first_name": "Paula",
+      "district": 70,
+      "hometown": "Hazelwood",
+      "party": "D",
+      "voice": "573-751-4163",
+      "room": "106-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=070"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Brown",
+      "first_name": "Richard",
+      "district": 27,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-7639",
+      "room": "134",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=027"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Buchheit-Courtway",
+      "first_name": "Cyndi",
+      "district": 115,
+      "hometown": "Festus",
+      "party": "R",
+      "voice": "573-751-7735",
+      "room": "236-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=115"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Burger",
+      "first_name": "Jamie",
+      "district": 148,
+      "hometown": "Benton",
+      "party": "R",
+      "voice": "573-751-5471",
+      "room": "201-E",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=148"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Burnett",
+      "first_name": "Ingrid",
+      "district": 19,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-3310",
+      "room": "105-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=019"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Burton",
+      "first_name": "Michael",
+      "district": 92,
+      "hometown": "Lakeshire",
+      "party": "D",
+      "voice": "573-751-9472",
+      "room": "109-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=092"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Busick",
+      "first_name": "Danny",
+      "district": 3,
+      "hometown": "Newtown",
+      "party": "R",
+      "voice": "573-751-3647",
+      "room": "405-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=003"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Butz",
+      "first_name": "Steve",
+      "district": 81,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-0438",
+      "room": "106-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=081"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Chipman",
+      "first_name": "Jason",
+      "district": 120,
+      "hometown": "Steelville",
+      "party": "R",
+      "voice": "573-751-1688",
+      "room": "200-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=120"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Christofanelli",
+      "first_name": "Phil",
+      "district": 105,
+      "hometown": "St. Peters",
+      "party": "R",
+      "voice": "573-751-2949",
+      "room": "408-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=105"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Clemens",
+      "first_name": "Doug",
+      "district": 72,
+      "hometown": "St. Ann",
+      "party": "D",
+      "voice": "573-751-1832",
+      "room": "101-J",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=072"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Coleman",
+      "first_name": "Jeff",
+      "district": 32,
+      "hometown": "Grain Valley",
+      "party": "R",
+      "voice": "573-751-1487",
+      "room": "114-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=032"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Coleman",
+      "first_name": "Mary Elizabeth",
+      "district": 97,
+      "hometown": "Arnold",
+      "party": "R",
+      "voice": "573-751-3751",
+      "room": "203-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=097"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Collins",
+      "first_name": "Kimberly-Ann",
+      "district": 77,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-1400",
+      "room": "101-G",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=077"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Cook",
+      "first_name": "Bennie",
+      "district": 142,
+      "hometown": "Houston",
+      "party": "R",
+      "voice": "573-751-1490",
+      "room": "203-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=142"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Copeland",
+      "first_name": "Ron",
+      "district": 143,
+      "hometown": "Salem",
+      "party": "R",
+      "voice": "573-751-2264",
+      "room": "115-F",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=143"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Cupps",
+      "first_name": "Scott",
+      "district": 158,
+      "hometown": "Shell Knob",
+      "party": "R",
+      "voice": "573-751-1488",
+      "room": "404-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=158"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Davidson",
+      "first_name": "Bishop",
+      "district": 130,
+      "hometown": "Republic",
+      "party": "R",
+      "voice": "573-751-2381",
+      "room": "201-CA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=130"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Davis",
+      "first_name": "Michael",
+      "district": 56,
+      "hometown": "Kansas City",
+      "party": "R",
+      "voice": "573-751-2175",
+      "room": "116-3",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=056"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Deaton",
+      "first_name": "Dirk",
+      "district": 159,
+      "hometown": "Noel",
+      "party": "R",
+      "voice": "573-751-9801",
+      "room": "415-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=159"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "DeGroot",
+      "first_name": "Bruce",
+      "district": 101,
+      "hometown": "Ellisville",
+      "party": "R",
+      "voice": "573-751-1247",
+      "room": "304-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=101"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Derges",
+      "first_name": "Tricia",
+      "district": 140,
+      "hometown": "Nixa",
+      "party": "R",
+      "voice": "573-751-2565",
+      "room": "400-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=140"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Dinkins",
+      "first_name": "Chris",
+      "district": 144,
+      "hometown": "Annapolis",
+      "party": "R",
+      "voice": "573-751-2112",
+      "room": "110-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=144"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Dogan",
+      "first_name": "Shamed",
+      "district": 98,
+      "hometown": "Ballwin",
+      "party": "R",
+      "voice": "573-751-4392",
+      "room": "303-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=098"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Doll",
+      "first_name": "Jo",
+      "district": 83,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-2883",
+      "room": "109-I",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=083"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Eggleston",
+      "first_name": "J.",
+      "district": 2,
+      "hometown": "Maysville",
+      "party": "R",
+      "voice": "573-751-4285",
+      "room": "414",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=002"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Ellebracht",
+      "first_name": "Mark",
+      "district": 17,
+      "hometown": "Liberty",
+      "party": "D",
+      "voice": "573-751-1218",
+      "room": "135-BA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=017"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Evans",
+      "first_name": "David",
+      "district": 154,
+      "hometown": "West Plains",
+      "party": "R",
+      "voice": "573-751-1455",
+      "room": "114-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=154"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Falkner",
+      "first_name": "Bill",
+      "district": 10,
+      "hometown": "St. Joseph",
+      "party": "R",
+      "voice": "573-751-9755",
+      "room": "206-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=010"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Fishel",
+      "first_name": "Craig",
+      "district": 136,
+      "hometown": "Springfield",
+      "party": "R",
+      "voice": "573-751-0232",
+      "room": "300",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=136"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Fitzwater",
+      "first_name": "Travis",
+      "district": 49,
+      "hometown": "Holts Summit",
+      "party": "R",
+      "voice": "573-751-5226",
+      "room": "401-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=049"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Fogle",
+      "first_name": "Betsy",
+      "district": 135,
+      "hometown": "Springfield",
+      "party": "D",
+      "voice": "573-751-9809",
+      "room": "109-H",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=135"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Francis",
+      "first_name": "Rick",
+      "district": 145,
+      "hometown": "Perryville",
+      "party": "R",
+      "voice": "573-751-5912",
+      "room": "412-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=145"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Gray",
+      "first_name": "Alan",
+      "district": 75,
+      "hometown": "Blackjack",
+      "party": "D",
+      "voice": "573-751-5538",
+      "room": "130-DA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=075"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Gregory",
+      "first_name": "David",
+      "district": 96,
+      "hometown": "St. Louis",
+      "party": "R",
+      "voice": "573-751-2150",
+      "room": "315",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=096"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Gregory",
+      "first_name": "Kurtis",
+      "district": 51,
+      "hometown": "Marshall",
+      "party": "R",
+      "voice": "573-751-2204",
+      "room": "115-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=051"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Grier",
+      "first_name": "Derek",
+      "district": 100,
+      "hometown": "Chesterfield",
+      "party": "R",
+      "voice": "573-751-9765",
+      "room": "408-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=100"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Griesheimer",
+      "first_name": "Aaron",
+      "district": 61,
+      "hometown": "Washington",
+      "party": "R",
+      "voice": "573-751-6668",
+      "room": "118-CB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=061"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Griffith",
+      "first_name": "Dave",
+      "district": 60,
+      "hometown": "Jefferson City",
+      "party": "R",
+      "voice": "573-751-2412",
+      "room": "235-BB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=060"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Gunby",
+      "first_name": "Trish",
+      "district": 99,
+      "hometown": "Ballwin",
+      "party": "D",
+      "voice": "573-751-3859",
+      "room": "103 BB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=099"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Haden",
+      "first_name": "Kent",
+      "district": 43,
+      "hometown": "Mexico",
+      "party": "R",
+      "voice": "573-751-3649",
+      "room": "400",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=043"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Haffner",
+      "first_name": "Mike",
+      "district": 55,
+      "hometown": "Pleasant Hill",
+      "party": "R",
+      "voice": "573-751-3783",
+      "room": "233-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=055"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Haley",
+      "first_name": "Willard",
+      "district": 58,
+      "hometown": "Eldon",
+      "party": "R",
+      "voice": "573-751-2077",
+      "room": "115-I",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=058"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hannegan",
+      "first_name": "Tom",
+      "district": 65,
+      "hometown": "St. Charles",
+      "party": "R",
+      "voice": "573-751-3717",
+      "room": "303-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=065"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hardwick",
+      "first_name": "Bill",
+      "district": 122,
+      "hometown": "Waynesville",
+      "party": "R",
+      "voice": "573-751-1446",
+      "room": "200-BC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=122"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Henderson",
+      "first_name": "Mike",
+      "district": 117,
+      "hometown": "Bonne Terre",
+      "party": "R",
+      "voice": "573-751-2317",
+      "room": "412-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=117"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hicks",
+      "first_name": "Ron",
+      "district": 102,
+      "hometown": "Dardenne Prairie",
+      "party": "R",
+      "voice": "573-751-9768",
+      "room": "235",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=102"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hill",
+      "first_name": "Justin",
+      "district": 108,
+      "hometown": "Lake St. Louis",
+      "party": "R",
+      "voice": "573-751-3572",
+      "room": "311",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=108"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Houx",
+      "first_name": "Dan",
+      "district": 54,
+      "hometown": "Warrensburg",
+      "party": "R",
+      "voice": "573-751-3850",
+      "room": "413-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=054"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hovis",
+      "first_name": "Barry",
+      "district": 146,
+      "hometown": "Whitewater",
+      "party": "R",
+      "voice": "573-751-6662",
+      "room": "406-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=146"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hudson",
+      "first_name": "Brad",
+      "district": 138,
+      "hometown": "Cape Fair",
+      "party": "R",
+      "voice": "573-751-3851",
+      "room": "207-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=138"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Hurlbert",
+      "first_name": "Josh",
+      "district": 12,
+      "hometown": "Smithville",
+      "party": "R",
+      "voice": "573-751-9760",
+      "room": "116-2",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=012"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Ingle",
+      "first_name": "Keri",
+      "district": 35,
+      "hometown": "Lee's Summit",
+      "party": "D",
+      "voice": "573-751-1459",
+      "room": "101-E",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=035"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Johnson",
+      "first_name": "Michael",
+      "district": 23,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-0538",
+      "room": "105-F",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=023"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Kalberloh",
+      "first_name": "Jim",
+      "district": 125,
+      "hometown": "Lowry City",
+      "party": "R",
+      "voice": "573-751-4065",
+      "room": "115-G",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=125"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Kelley",
+      "first_name": "Ann",
+      "district": 127,
+      "hometown": "Lamar",
+      "party": "R",
+      "voice": "573-751-2165",
+      "room": "403-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=127"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Kelly",
+      "first_name": "Hannah",
+      "district": 141,
+      "hometown": "Mountain Grove",
+      "party": "R",
+      "voice": "573-751-2205",
+      "room": "302-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=141"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Kidd",
+      "first_name": "Bill",
+      "district": 20,
+      "hometown": "Buckner",
+      "party": "R",
+      "voice": "573-751-3674",
+      "room": "402",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=020"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Knight",
+      "first_name": "Jeff",
+      "district": 129,
+      "hometown": "Lebanon",
+      "party": "R",
+      "voice": "573-751-1167",
+      "room": "413-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=129"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Lewis",
+      "first_name": "Ed",
+      "district": 6,
+      "hometown": "Moberly",
+      "party": "R",
+      "voice": "573-751-6566",
+      "room": "409-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=006"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Lewis",
+      "first_name": "Patty",
+      "district": 25,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-2437",
+      "room": "109-F",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=025"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Lovasco",
+      "first_name": "Tony",
+      "district": 64,
+      "hometown": "O'Fallon",
+      "party": "R",
+      "voice": "573-751-1484",
+      "room": "118-CC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=064"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Mackey",
+      "first_name": "Ian",
+      "district": 87,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-0100",
+      "room": "105-J",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=087"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Mayhew",
+      "first_name": "Don",
+      "district": 121,
+      "hometown": "Crocker",
+      "party": "R",
+      "voice": "573-751-3834",
+      "room": "305-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=121"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "McCreery",
+      "first_name": "Tracy",
+      "district": 88,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-7535",
+      "room": "101-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=088"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "McDaniel",
+      "first_name": "Andrew",
+      "district": 150,
+      "hometown": "Deering",
+      "party": "R",
+      "voice": "573-751-3629",
+      "room": "314",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=150"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "McGaugh",
+      "first_name": "Peggy",
+      "district": 39,
+      "hometown": "Carrollton",
+      "party": "R",
+      "voice": "573-751-1468",
+      "room": "411-2",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=039"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "McGirl",
+      "first_name": "Mike",
+      "district": 118,
+      "hometown": "Potosi",
+      "party": "R",
+      "voice": "573-751-2398",
+      "room": "201-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=118"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Merideth",
+      "first_name": "Peter",
+      "district": 80,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-6736",
+      "room": "101-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=080"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Morse",
+      "first_name": "Herman",
+      "district": 151,
+      "hometown": "Dexter",
+      "party": "R",
+      "voice": "573-751-1494",
+      "room": "135",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=151"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Mosley",
+      "first_name": "Jay",
+      "district": 68,
+      "hometown": "Florissant",
+      "party": "D",
+      "voice": "573-751-9628",
+      "room": "130-DB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=068"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Murphy",
+      "first_name": "Jim",
+      "district": 94,
+      "hometown": "St. Louis",
+      "party": "R",
+      "voice": "573-751-3719",
+      "room": "407-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=094"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Nurrenbern",
+      "first_name": "Maggie",
+      "district": 15,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-4787",
+      "room": "101-F",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=015"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "O'Donnell",
+      "first_name": "Michael",
+      "district": 95,
+      "hometown": "St. Louis",
+      "party": "R",
+      "voice": "573-751-3762",
+      "room": "235-BA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=095"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Owen",
+      "first_name": "Bill",
+      "district": 131,
+      "hometown": "Springfield",
+      "party": "R",
+      "voice": "573-751-2948",
+      "room": "410-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=131"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Patterson",
+      "first_name": "Jonathan",
+      "district": 30,
+      "hometown": "Lees Summit",
+      "party": "R",
+      "voice": "573-751-0907",
+      "room": "305-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=030"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Perkins",
+      "first_name": "Chad",
+      "district": 40,
+      "hometown": "Bowling Green",
+      "party": "R",
+      "voice": "573-751-4028",
+      "room": "115-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=040"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Person",
+      "first_name": "Michael",
+      "district": 74,
+      "hometown": "Ferguson",
+      "party": "D",
+      "voice": "573-751-4726",
+      "room": "105-G",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=074"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Phifer",
+      "first_name": "Barbara",
+      "district": 90,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-4069",
+      "room": "103-BA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=090"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Pietzman",
+      "first_name": "Randy",
+      "district": 41,
+      "hometown": "Troy",
+      "party": "R",
+      "voice": "573-751-9459",
+      "room": "205",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=041"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Pike",
+      "first_name": "Patricia",
+      "district": 126,
+      "hometown": "Adrian",
+      "party": "R",
+      "voice": "573-751-5388",
+      "room": "313-2",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=126"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Plocher",
+      "first_name": "Dean",
+      "district": 89,
+      "hometown": "St. Louis",
+      "party": "R",
+      "voice": "573-751-1544",
+      "room": "302-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=089"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Pollitt",
+      "first_name": "Brad",
+      "district": 52,
+      "hometown": "Sedalia",
+      "party": "R",
+      "voice": "573-751-9774",
+      "room": "233-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=052"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Pollock",
+      "first_name": "Suzie",
+      "district": 123,
+      "hometown": "Lebanon",
+      "party": "R",
+      "voice": "573-751-1119",
+      "room": "234",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=123"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Porter",
+      "first_name": "Jeff",
+      "district": 42,
+      "hometown": "Montgomery City",
+      "party": "R",
+      "voice": "573-751-2689",
+      "room": "236-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=042"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Pouche",
+      "first_name": "Sean",
+      "district": 13,
+      "hometown": "Kansas City",
+      "party": "R",
+      "voice": "573-751-6593",
+      "room": "115-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=013"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Price IV",
+      "first_name": "Wiley",
+      "district": 84,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-2198",
+      "room": "109-AA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=084"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Proudie",
+      "first_name": "Raychel",
+      "district": 73,
+      "hometown": "Ferguson",
+      "party": "D",
+      "voice": "573-751-0855",
+      "room": "135-AA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=073"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Quade",
+      "first_name": "Crystal",
+      "district": 132,
+      "hometown": "Springfield",
+      "party": "D",
+      "voice": "573-751-3795",
+      "room": "204",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=132"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Railsback",
+      "first_name": "Randy",
+      "district": 8,
+      "hometown": "Hamilton",
+      "party": "R",
+      "voice": "573-751-0246",
+      "room": "201-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=008"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Reedy",
+      "first_name": "Rodger",
+      "district": 57,
+      "hometown": "Windsor",
+      "party": "R",
+      "voice": "573-751-3971",
+      "room": "405-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=057"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Richey",
+      "first_name": "Doug",
+      "district": 38,
+      "hometown": "Excelsior Springs",
+      "party": "R",
+      "voice": "573-751-2238",
+      "room": "207-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=038"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Riggs",
+      "first_name": "Louis",
+      "district": 5,
+      "hometown": "Hannibal",
+      "party": "R",
+      "voice": "573-751-3613",
+      "room": "111",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=005"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Riley",
+      "first_name": "Alex",
+      "district": 134,
+      "hometown": "Springfield",
+      "party": "R",
+      "voice": "573-751-2210",
+      "room": "116-1",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=134"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Roberts",
+      "first_name": "Lane",
+      "district": 161,
+      "hometown": "Joplin",
+      "party": "R",
+      "voice": "573-751-3791",
+      "room": "201-F",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=161"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Roden",
+      "first_name": "Shane",
+      "district": 111,
+      "hometown": "Cedar Hill",
+      "party": "R",
+      "voice": "573-751-4567",
+      "room": "313-3",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=111"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Rogers",
+      "first_name": "Wes",
+      "district": 18,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-2199",
+      "room": "105-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=018"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Rone",
+      "first_name": "Don",
+      "district": 149,
+      "hometown": "Portageville",
+      "party": "R",
+      "voice": "573-751-4085",
+      "room": "312",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=149"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Rowland",
+      "first_name": "Rory",
+      "district": 29,
+      "hometown": "Independence",
+      "party": "D",
+      "voice": "573-751-3623",
+      "room": "107",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=029"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Ruth",
+      "first_name": "Becky",
+      "district": 114,
+      "hometown": "Festus",
+      "party": "R",
+      "voice": "573-751-4451",
+      "room": "316",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=114"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Sander",
+      "first_name": "Chris",
+      "district": 33,
+      "hometown": "Lone Jack",
+      "party": "R",
+      "voice": "573-751-9766",
+      "room": "116A-2",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=033"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Sassmann",
+      "first_name": "Bruce",
+      "district": 62,
+      "hometown": "Bland",
+      "party": "R",
+      "voice": "573-751-1344",
+      "room": "203-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=062"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Sauls",
+      "first_name": "Robert",
+      "district": 21,
+      "hometown": "Independence",
+      "party": "D",
+      "voice": "573-751-5701",
+      "room": "101-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=021"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Schnelting",
+      "first_name": "Adam",
+      "district": 104,
+      "hometown": "St. Charles",
+      "party": "R",
+      "voice": "573-751-2250",
+      "room": "200-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=104"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Schroer",
+      "first_name": "Nick",
+      "district": 107,
+      "hometown": "O'Fallon",
+      "party": "R",
+      "voice": "573-751-1470",
+      "room": "411-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=107"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Schwadron",
+      "first_name": "Adam",
+      "district": 106,
+      "hometown": "St. Charles",
+      "party": "R",
+      "voice": "573-751-1452",
+      "room": "116-4",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=106"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Seitz",
+      "first_name": "Brian",
+      "district": 156,
+      "hometown": "Branson",
+      "party": "R",
+      "voice": "573-751-1309",
+      "room": "116-5",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=156"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Sharp",
+      "first_name": "Mark",
+      "district": 36,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-9469",
+      "room": "102-BA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=036"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Sharpe",
+      "first_name": "Greg",
+      "district": 4,
+      "hometown": "Ewing",
+      "party": "R",
+      "voice": "573-751-3644",
+      "room": "206-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=004"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Shaul",
+      "first_name": "Dan",
+      "district": 113,
+      "hometown": "Imperial",
+      "party": "R",
+      "voice": "573-751-2504",
+      "room": "313-1",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=113"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Shields",
+      "first_name": "Brenda",
+      "district": 11,
+      "hometown": "St. Joseph",
+      "party": "R",
+      "voice": "573-751-3643",
+      "room": "407-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=011"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Simmons",
+      "first_name": "John",
+      "district": 109,
+      "hometown": "Washington",
+      "party": "R",
+      "voice": "573-751-3776",
+      "room": "118-CA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=109"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Smith",
+      "first_name": "Cody",
+      "district": 163,
+      "hometown": "Carthage",
+      "party": "R",
+      "voice": "573-751-5458",
+      "room": "309",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=163"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Smith",
+      "first_name": "David",
+      "district": 45,
+      "hometown": "Columbia",
+      "party": "D",
+      "voice": "573-751-4189",
+      "room": "105-H",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=045"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Smith",
+      "first_name": "Neil",
+      "district": 67,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-2135",
+      "room": "105-E",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=067"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Smith",
+      "first_name": "Travis",
+      "district": 155,
+      "hometown": "Dora",
+      "party": "R",
+      "voice": "573-751-2042",
+      "room": "110-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=155"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Stacy",
+      "first_name": "Dan",
+      "district": 31,
+      "hometown": "Blue Springs",
+      "party": "R",
+      "voice": "573-751-8636",
+      "room": "411-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=031"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Stephens",
+      "first_name": "Mike",
+      "district": 128,
+      "hometown": "Bolivar",
+      "party": "R",
+      "voice": "573-751-1347",
+      "room": "306-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=128"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Stevens",
+      "first_name": "Martha",
+      "district": 46,
+      "hometown": "Columbia",
+      "party": "D",
+      "voice": "573-751-9753",
+      "room": "109-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=046"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Tate",
+      "first_name": "Nate",
+      "district": 119,
+      "hometown": "St. Clair",
+      "party": "R",
+      "voice": "573-751-0549",
+      "room": "114-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=119"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Taylor",
+      "first_name": "Jered",
+      "district": 139,
+      "hometown": "Republic",
+      "party": "R",
+      "voice": "573-751-3833",
+      "room": "306-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=139"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Taylor",
+      "first_name": "Tim",
+      "district": 48,
+      "hometown": "Bunceton",
+      "party": "R",
+      "voice": "573-751-0169",
+      "room": "409-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=048"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Terry",
+      "first_name": "Marlene",
+      "district": 66,
+      "hometown": "St Louis",
+      "party": "D",
+      "voice": "573-751-6845",
+      "room": "105-I",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=066"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Thomas",
+      "first_name": "Lisa",
+      "district": 124,
+      "hometown": "Lake Ozark",
+      "party": "R",
+      "voice": "573-751-3604",
+      "room": "415-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=124"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Thompson",
+      "first_name": "Terry",
+      "district": 53,
+      "hometown": "Lexington",
+      "party": "R",
+      "voice": "573-751-1462",
+      "room": "406-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=053"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Toalson Reisch",
+      "first_name": "Cheri",
+      "district": 44,
+      "hometown": "Hallsville",
+      "party": "R",
+      "voice": "573-751-1169",
+      "room": "113",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=044"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Trent",
+      "first_name": "Curtis",
+      "district": 133,
+      "hometown": "Springfield",
+      "party": "R",
+      "voice": "573-751-0136",
+      "room": "304-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=133"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Turnbaugh",
+      "first_name": "Annette",
+      "district": 37,
+      "hometown": "Grandview",
+      "party": "D",
+      "voice": "573-751-0238",
+      "room": "135-AB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=037"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Unsicker",
+      "first_name": "Sarah",
+      "district": 91,
+      "hometown": "Shrewsbury",
+      "party": "D",
+      "voice": "573-751-1285",
+      "room": "101-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=091"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Van Schoiack",
+      "first_name": "Dean",
+      "district": 9,
+      "hometown": "Savannah",
+      "party": "R",
+      "voice": "573-751-3666",
+      "room": "201-G",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=009"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Veit",
+      "first_name": "Rudy",
+      "district": 59,
+      "hometown": "Wardsville",
+      "party": "R",
+      "voice": "573-751-0665",
+      "room": "206-C",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=059"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Vescovo",
+      "first_name": "Rob",
+      "district": 112,
+      "hometown": "Arnold",
+      "party": "R",
+      "voice": "573-751-3607",
+      "room": "308",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=112"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Wallingford",
+      "first_name": "Wayne",
+      "district": 147,
+      "hometown": "Cape Girardeau",
+      "party": "R",
+      "voice": "573-751-1443",
+      "room": "201-BA",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=147"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Walsh",
+      "first_name": "Sara",
+      "district": 50,
+      "hometown": "Ashland",
+      "party": "R",
+      "voice": "573-751-2134",
+      "room": "317-A",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=050"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Walsh Moore",
+      "first_name": "Bridget",
+      "district": 93,
+      "hometown": "St. Louis",
+      "party": "D",
+      "voice": "573-751-0211",
+      "room": "105-D",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=093"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Weber",
+      "first_name": "Emily",
+      "district": 24,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-4485",
+      "room": "109-G",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=024"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "West",
+      "first_name": "Richard",
+      "district": 63,
+      "hometown": "Wentzville",
+      "party": "R",
+      "voice": "573-751-1460",
+      "room": "116A-1",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=063"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Wiemann",
+      "first_name": "John",
+      "district": 103,
+      "hometown": "O'Fallon",
+      "party": "R",
+      "voice": "573-751-2176",
+      "room": "301",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=103"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Windham",
+      "first_name": "Kevin",
+      "district": 85,
+      "hometown": "Hillsdale",
+      "party": "D",
+      "voice": "573-751-4468",
+      "room": "130-DC",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=085"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Wright",
+      "first_name": "Dale",
+      "district": 116,
+      "hometown": "Farmington",
+      "party": "R",
+      "voice": "573-751-3455",
+      "room": "412-B",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=116"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "last_name": "Young",
+      "first_name": "Yolanda",
+      "district": 22,
+      "hometown": "Kansas City",
+      "party": "D",
+      "voice": "573-751-3129",
+      "room": "102-BB",
+      "url": "https://house.mo.gov/MemberDetails.aspx?year=2021&code=R&district=022"
+    },
+    "__next__": "HouseDetail source=None"
+  }
+]

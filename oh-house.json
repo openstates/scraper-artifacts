@@ -1,0 +1,992 @@
+[
+  {
+    "data": {
+      "name": "Scott Wiggam",
+      "district": "1",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/scott-wiggam",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2842.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Marilyn S. John",
+      "district": "2",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/marilyn-s-john",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2938.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Haraz N. Ghanbari",
+      "district": "3",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/haraz-n-ghanbari",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2926.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Robert R. Cupp",
+      "district": "4",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/robert-r-cupp",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2802.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Timothy E. Ginter",
+      "district": "5",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/timothy-e-ginter",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2803.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Phillip M. Robinson, Jr.",
+      "district": "6",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/phillip-m-robinson-jr",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2881.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Thomas F. Patton",
+      "district": "7",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/thomas-f-patton",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2843.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Kent Smith",
+      "district": "8",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/kent-smith",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2804.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Janine R. Boyd",
+      "district": "9",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/janine-r-boyd",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2805.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Terrence Upchurch",
+      "district": "10",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/terrence-upchurch",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2882.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Stephanie D. Howse",
+      "district": "11",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/stephanie-d-howse",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2806.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Juanita O. Brent",
+      "district": "12",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/juanita-o-brent",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2883.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Michael J. Skindell",
+      "district": "13",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/michael-j-skindell",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2884.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Bride Rose Sweeney",
+      "district": "14",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/bride-rose-sweeney",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2879.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jeffrey A. Crossman",
+      "district": "15",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/jeffrey-a-crossman",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2885.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Monique Smith",
+      "district": "16",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/monique-smith",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2939.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Adam C. Miller",
+      "district": "17",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/adam-c-miller",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2845.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Kristin Boggs",
+      "district": "18",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/kristin-boggs",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2835.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Mary Lightbody",
+      "district": "19",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/mary-lightbody",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2886.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Richard D. Brown",
+      "district": "20",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/richard-d-brown",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2872.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Beth Liston",
+      "district": "21",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/beth-liston",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2887.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "David Leland",
+      "district": "22",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/david-leland",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2808.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Laura Lanese",
+      "district": "23",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/laura-lanese",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2846.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "C. Allison Russo",
+      "district": "24",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/c-allison-russo",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2888.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Dontavius L. Jarrells",
+      "district": "25",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/dontavius-l-jarrells",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2940.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Erica C. Crawley",
+      "district": "26",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/erica-c-crawley",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2889.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Thomas E. Brinkman Jr.",
+      "district": "27",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/thomas-e-brinkman-jr",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/544.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jessica E. Miranda",
+      "district": "28",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/jessica-e-miranda",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2890.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Cindy Abrams",
+      "district": "29",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/cindy-abrams",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2934.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Bill Seitz",
+      "district": "30",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/bill-seitz",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2849.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Brigid Kelly",
+      "district": "31",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/brigid-kelly",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2850.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Catherine D. Ingram",
+      "district": "32",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/catherine-d-ingram",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2851.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Sedrick Denson",
+      "district": "33",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/sedrick-denson",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2891.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Emilia Strong Sykes",
+      "district": "34",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/emilia-strong-sykes",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2812.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Tavia Galonski",
+      "district": "35",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/tavia-galonski",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2871.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Bob Young",
+      "district": "36",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/bob-young",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2941.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Casey Weinstein",
+      "district": "37",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/casey-weinstein",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2892.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Bill Roemer",
+      "district": "38",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/bill-roemer",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2893.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Willis E. Blackshear, Jr.",
+      "district": "39",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/willis-e-blackshear-jr",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2942.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Phil Plummer",
+      "district": "40",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/phil-plummer",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2894.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Andrea White",
+      "district": "41",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/andrea-white",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2943.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Tom Young",
+      "district": "42",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/tom-young",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2944.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Rodney Creech",
+      "district": "43",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/rodney-creech",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2945.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Paula Hicks-Hudson",
+      "district": "44",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/paula-hicks-hudson",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2895.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Lisa A. Sobecki",
+      "district": "45",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/lisa-a-sobecki",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2896.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Michael Sheehy",
+      "district": "46",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/michael-sheehy",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2262.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Derek Merrin",
+      "district": "47",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/derek-merrin",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2839.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Scott Oelslager",
+      "district": "48",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/scott-oelslager",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2897.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Thomas West",
+      "district": "49",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/thomas-west",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2852.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Reggie Stoltzfus",
+      "district": "50",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/reggie-stoltzfus",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2898.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Sara P. Carruthers",
+      "district": "51",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/sara-p-carruthers",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2899.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jennifer Gross",
+      "district": "52",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jennifer-gross",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2946.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Thomas Hall",
+      "district": "53",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/thomas-hall",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2947.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Paul Zeltwanger",
+      "district": "54",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/paul-zeltwanger",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2816.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Gayle Manning",
+      "district": "55",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/gayle-manning",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2900.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Joseph A. Miller III",
+      "district": "56",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/joseph-a-miller-iii",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2901.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Dick Stein",
+      "district": "57",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/dick-stein",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2853.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Michele Lepore-Hagan",
+      "district": "58",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/michele-lepore-hagan",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2818.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Al Cutrona",
+      "district": "59",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/al-cutrona",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2937.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Daniel P. Troy",
+      "district": "60",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/daniel-p-troy",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2948.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jamie Callender",
+      "district": "61",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jamie-callender",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2903.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "P. Scott Lipps",
+      "district": "62",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/p-scott-lipps",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2854.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Mike Loychik",
+      "district": "63",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/mike-loychik",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2949.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Michael J. O'Brien",
+      "district": "64",
+      "party": "Democratic",
+      "url": "http://ohiohouse.gov/michael-j-obrien",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2819.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jean Schmidt",
+      "district": "65",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jean-schmidt",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2950.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Adam C. Bird",
+      "district": "66",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/adam-c-bird",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2951.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Kris Jordan",
+      "district": "67",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/kris-jordan",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2904.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Rick Carfagna",
+      "district": "68",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/rick-carfagna",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2856.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Sharon A. Ray",
+      "district": "69",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/sharon-a-ray",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2952.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Darrell Kick",
+      "district": "70",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/darrell-kick",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2857.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Mark Fraizer",
+      "district": "71",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/mark-fraizer",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2936.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Larry Householder",
+      "district": "72",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/larry-householder",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2858.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Brian E. Lampton",
+      "district": "73",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/brian-e-lampton",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2953.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Bill Dean",
+      "district": "74",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/bill-dean",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2837.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Gail K. Pavliga",
+      "district": "75",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/gail-k-pavliga",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2954.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Diane V. Grendell",
+      "district": "76",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/diane-v-grendell",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2929.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jeff LaRe",
+      "district": "77",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jeff-lare",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2928.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Brian Stewart",
+      "district": "78",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/brian-stewart",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2955.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "J. Kyle Koehler",
+      "district": "79",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/j-kyle-koehler",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2823.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jena Powell",
+      "district": "80",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jena-powell",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2906.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "James M. Hoops",
+      "district": "81",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/james-m-hoops",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2875.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Craig S. Riedel",
+      "district": "82",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/craig-s-riedel",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2859.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jon Cross",
+      "district": "83",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jon-cross",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2907.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Susan Manchester",
+      "district": "84",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/susan-manchester",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2908.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "A. Nino Vitale",
+      "district": "85",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/a-nino-vitale",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2826.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Tracy M. Richardson",
+      "district": "86",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/tracy-m-richardson",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2909.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Riordan T. McClain",
+      "district": "87",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/riordan-t-mcclain",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2876.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Gary Click",
+      "district": "88",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/gary-click",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2956.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "D. J. Swearingen",
+      "district": "89",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/d-j-swearingen",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2931.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Brian Baldridge",
+      "district": "90",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/brian-baldridge",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2910.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Shane Wilkin",
+      "district": "91",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/shane-wilkin",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2877.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Mark Johnson",
+      "district": "92",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/mark-johnson",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2957.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jason Stephens",
+      "district": "93",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jason-stephens",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2935.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Jay Edwards",
+      "district": "94",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/jay-edwards",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2862.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Don Jones",
+      "district": "95",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/don-jones",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2911.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Ron Ferguson",
+      "district": "96",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/ron-ferguson",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2958.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Adam Holmes",
+      "district": "97",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/adam-holmes",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2924.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Brett Hudson Hillyer",
+      "district": "98",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/brett-hudson-hillyer",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2912.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
+      "name": "Sarah Fowler Arthur",
+      "district": "99",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/sarah-fowler-arthur",
+      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2959.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  }
+]
