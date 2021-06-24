@@ -711,16 +711,6 @@
   },
   {
     "data": {
-      "name": "Larry Householder",
-      "district": "72",
-      "party": "Republican",
-      "url": "http://ohiohouse.gov/larry-householder",
-      "image": "https://www.legislature.ohio.gov/Assets/HouseMembers/Headshots/Medium/2858.jpg"
-    },
-    "__next__": "HouseDetail source=None"
-  },
-  {
-    "data": {
       "name": "Brian E. Lampton",
       "district": "73",
       "party": "Republican",

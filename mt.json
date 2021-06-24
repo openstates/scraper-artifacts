@@ -29,6 +29,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -75,6 +76,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -121,6 +123,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -167,6 +170,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -213,6 +217,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -259,6 +264,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -305,6 +311,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -351,6 +358,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -397,6 +405,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -443,6 +452,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -489,6 +499,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -535,6 +546,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -581,6 +593,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -627,6 +640,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -673,6 +687,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -719,6 +734,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -765,6 +781,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -811,6 +828,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -857,6 +875,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -903,6 +922,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -949,6 +969,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -995,6 +1016,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1041,6 +1063,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1087,6 +1110,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1133,6 +1157,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1179,6 +1204,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1225,6 +1251,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1271,6 +1298,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1317,6 +1345,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1363,6 +1392,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1409,11 +1439,59 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 932-5662",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Sherry Essmann",
+      "state": "mt",
+      "party": "Republican",
+      "district": "52",
+      "chamber": "lower",
+      "image": "",
+      "email": "Sherry.Essmann@mtleg.gov",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/7115",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/7115",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 670-9817",
         "fax": ""
       },
       "district_office": {
@@ -1455,6 +1533,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1501,6 +1580,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1547,6 +1627,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1593,6 +1674,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1639,6 +1721,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1685,6 +1768,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1731,6 +1815,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1777,6 +1862,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1823,6 +1909,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1869,6 +1956,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1915,6 +2003,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -1961,6 +2050,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2007,6 +2097,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2053,6 +2144,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2099,6 +2191,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2145,6 +2238,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2191,6 +2285,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2237,6 +2332,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2283,6 +2379,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2329,6 +2426,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2375,6 +2473,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2421,6 +2520,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2467,6 +2567,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2513,6 +2614,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2559,6 +2661,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2605,6 +2708,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2651,6 +2755,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2697,6 +2802,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2743,6 +2849,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2789,6 +2896,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2835,6 +2943,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2881,6 +2990,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2927,6 +3037,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -2973,6 +3084,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3019,6 +3131,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3065,6 +3178,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3111,6 +3225,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3157,6 +3272,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3203,6 +3319,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3249,6 +3366,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3295,6 +3413,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3341,6 +3460,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3387,6 +3507,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3433,6 +3554,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3479,6 +3601,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3525,6 +3648,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3571,6 +3695,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3617,6 +3742,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3663,6 +3789,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3709,6 +3836,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3755,6 +3883,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3801,6 +3930,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3847,6 +3977,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3893,6 +4024,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3939,6 +4071,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -3985,6 +4118,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4031,6 +4165,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4077,6 +4212,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4123,6 +4259,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4169,6 +4306,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4215,6 +4353,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4261,6 +4400,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4307,6 +4447,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4353,6 +4494,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4399,6 +4541,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4445,6 +4588,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4491,6 +4635,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4537,6 +4682,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4583,6 +4729,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4629,6 +4776,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4675,6 +4823,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4721,6 +4870,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4767,6 +4917,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4813,6 +4964,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4859,6 +5011,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4905,6 +5058,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4951,6 +5105,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -4997,6 +5152,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5043,6 +5199,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5089,6 +5246,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5135,6 +5293,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5181,6 +5340,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5227,6 +5387,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5273,6 +5434,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5319,6 +5481,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5365,6 +5528,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5411,6 +5575,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5457,6 +5622,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5503,6 +5669,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5549,6 +5716,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5595,6 +5763,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5641,6 +5810,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5687,6 +5857,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5733,6 +5904,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5779,6 +5951,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5825,6 +5998,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5871,6 +6045,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5917,6 +6092,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -5963,6 +6139,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6009,6 +6186,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6055,6 +6233,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6101,6 +6280,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6147,6 +6327,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6193,6 +6374,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6239,6 +6421,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6285,6 +6468,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6331,6 +6515,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6377,6 +6562,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6423,6 +6609,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6469,6 +6656,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6515,6 +6703,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6561,6 +6750,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6607,6 +6797,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6653,6 +6844,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6699,6 +6891,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6745,6 +6938,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6791,6 +6985,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6837,6 +7032,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
@@ -6883,6 +7079,7 @@
         "instagram": "",
         "facebook": ""
       },
+      "additional_offices": [],
       "extras": {},
       "capitol_office": {
         "note": "Capitol Office",
