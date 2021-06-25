@@ -581,10 +581,6 @@
   },
   {
     "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/sen_dietrich_brenda_1/"
-  },
-  {
-    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/sen_erickson_renee_1/"
   },
   {
@@ -658,5 +654,9 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/sen_oshea_kristen_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/sen_dietrich_brenda_1/"
   }
 ]

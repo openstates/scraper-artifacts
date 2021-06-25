@@ -1458,7 +1458,7 @@
   },
   {
     "data": {
-      "name": "Sherry Essmann",
+      "name": "Sherry Essmann Replaced Jimmy Patelis In Hd52 On 2021-06-08",
       "state": "mt",
       "party": "Republican",
       "district": "52",
@@ -3761,53 +3761,6 @@
   },
   {
     "data": {
-      "name": "Casey Knudsen",
-      "state": "mt",
-      "party": "Republican",
-      "district": "33",
-      "chamber": "lower",
-      "image": "",
-      "email": "",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6840",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6840",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 390-0274",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Rhonda Knudsen",
       "state": "mt",
       "party": "Republican",
@@ -3842,6 +3795,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 489-5253",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Casey Knudsen",
+      "state": "mt",
+      "party": "Republican",
+      "district": "33",
+      "chamber": "lower",
+      "image": "",
+      "email": "",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6840",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6840",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 390-0274",
         "fax": ""
       },
       "district_office": {
@@ -5030,7 +5030,7 @@
   },
   {
     "data": {
-      "name": "Jimmy Patelis",
+      "name": "Jimmy Patelis Resigned From Hd52 On 2021-05-15 And Replaced By Sherry Essmann",
       "state": "mt",
       "party": "Republican",
       "district": "52",
@@ -5359,53 +5359,6 @@
   },
   {
     "data": {
-      "name": "Amy Regier",
-      "state": "mt",
-      "party": "Republican",
-      "district": "6",
-      "chamber": "lower",
-      "image": "",
-      "email": "Amy.Regier@mtleg.gov",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6891",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6891",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 253-8421",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Matt Regier",
       "state": "mt",
       "party": "Republican",
@@ -5440,6 +5393,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 253-3293",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Amy Regier",
+      "state": "mt",
+      "party": "Republican",
+      "district": "6",
+      "chamber": "lower",
+      "image": "",
+      "email": "Amy.Regier@mtleg.gov",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6891",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6891",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 253-8421",
         "fax": ""
       },
       "district_office": {
@@ -5970,53 +5970,6 @@
   },
   {
     "data": {
-      "name": "Frank Smith",
-      "state": "mt",
-      "party": "Democratic",
-      "district": "31",
-      "chamber": "lower",
-      "image": "",
-      "email": "clairena@hughes.net",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6827",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6827",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 942-0615",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Cary Smith",
       "state": "mt",
       "party": "Republican",
@@ -6051,6 +6004,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 698-9307",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Frank Smith",
+      "state": "mt",
+      "party": "Democratic",
+      "district": "31",
+      "chamber": "lower",
+      "image": "",
+      "email": "clairena@hughes.net",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6827",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6827",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 942-0615",
         "fax": ""
       },
       "district_office": {
