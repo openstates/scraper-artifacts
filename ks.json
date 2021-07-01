@@ -125,10 +125,6 @@
   },
   {
     "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_victors_ponka_we_1/"
-  },
-  {
-    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_highberger_dennis_1/"
   },
   {
@@ -494,6 +490,10 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_leehahn_tatum_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_victors_ponka_we_1/"
   },
   {
     "data": null,

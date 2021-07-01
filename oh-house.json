@@ -711,6 +711,16 @@
   },
   {
     "data": {
+      "name": "Kevin D. Miller",
+      "district": "72",
+      "party": "Republican",
+      "url": "http://ohiohouse.gov/kevin-d-miller",
+      "image": "https://www.legislature.ohio.gov/Assets/Global/HeadshotUnavailableMedium.jpg"
+    },
+    "__next__": "HouseDetail source=None"
+  },
+  {
+    "data": {
       "name": "Brian E. Lampton",
       "district": "73",
       "party": "Republican",
