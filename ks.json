@@ -21,10 +21,6 @@
   },
   {
     "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_bishop_elizabeth_1/"
-  },
-  {
-    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergquist_emil_1/"
   },
   {
@@ -134,10 +130,6 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1/"
-  },
-  {
-    "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_parker_brett_1/"
   },
   {
     "data": null,
@@ -494,6 +486,10 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_victors_ponka_we_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_parker_brett_1/"
   },
   {
     "data": null,
