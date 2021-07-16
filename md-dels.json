@@ -458,14 +458,6 @@
   {
     "data": {
       "chamber": "lower",
-      "district": "44A",
-      "party": "Democrat"
-    },
-    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/haynes"
-  },
-  {
-    "data": {
-      "chamber": "lower",
       "district": "22",
       "party": "Democrat"
     },
@@ -1126,5 +1118,13 @@
       "party": "Democrat"
     },
     "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/young03"
+  },
+  {
+    "data": {
+      "chamber": "lower",
+      "district": "44A",
+      "party": ""
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Index/house"
   }
 ]

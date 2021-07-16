@@ -405,10 +405,6 @@
   },
   {
     "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_charles_1/"
-  },
-  {
-    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_probst_jason_1/"
   },
   {
@@ -490,6 +486,14 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_parker_brett_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_charles_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_schmidt_chuck_1/"
   },
   {
     "data": null,
