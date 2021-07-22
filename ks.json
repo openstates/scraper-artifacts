@@ -101,10 +101,6 @@
   },
   {
     "data": null,
-    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoheisel_nick_1/"
-  },
-  {
-    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_finch_blaine_1/"
   },
   {
@@ -494,6 +490,10 @@
   {
     "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_schmidt_chuck_1/"
+  },
+  {
+    "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoheisel_nick_1/"
   },
   {
     "data": null,
