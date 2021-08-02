@@ -3761,53 +3761,6 @@
   },
   {
     "data": {
-      "name": "Rhonda Knudsen",
-      "state": "mt",
-      "party": "Republican",
-      "district": "34",
-      "chamber": "lower",
-      "image": "",
-      "email": "rhonda.knudsen@mtleg.gov",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6841",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6841",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 489-5253",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Casey Knudsen",
       "state": "mt",
       "party": "Republican",
@@ -3842,6 +3795,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 390-0274",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Rhonda Knudsen",
+      "state": "mt",
+      "party": "Republican",
+      "district": "34",
+      "chamber": "lower",
+      "image": "",
+      "email": "rhonda.knudsen@mtleg.gov",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6841",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6841",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 489-5253",
         "fax": ""
       },
       "district_office": {
@@ -5359,53 +5359,6 @@
   },
   {
     "data": {
-      "name": "Matt Regier",
-      "state": "mt",
-      "party": "Republican",
-      "district": "4",
-      "chamber": "lower",
-      "image": "",
-      "email": "matt.regier@mtleg.gov",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6832",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6832",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 253-3293",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Amy Regier",
       "state": "mt",
       "party": "Republican",
@@ -5440,6 +5393,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 253-8421",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Matt Regier",
+      "state": "mt",
+      "party": "Republican",
+      "district": "4",
+      "chamber": "lower",
+      "image": "",
+      "email": "matt.regier@mtleg.gov",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6832",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6832",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 253-3293",
         "fax": ""
       },
       "district_office": {
@@ -5970,53 +5970,6 @@
   },
   {
     "data": {
-      "name": "Cary Smith",
-      "state": "mt",
-      "party": "Republican",
-      "district": "27",
-      "chamber": "upper",
-      "image": "",
-      "email": "cary.smith@mtleg.gov",
-      "given_name": "",
-      "family_name": "",
-      "suffix": "",
-      "links": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6812",
-          "note": ""
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://leg.mt.gov/legislator-information/roster/individual/6812",
-          "note": ""
-        }
-      ],
-      "ids": {
-        "twitter": "",
-        "youtube": "",
-        "instagram": "",
-        "facebook": ""
-      },
-      "additional_offices": [],
-      "extras": {},
-      "capitol_office": {
-        "note": "Capitol Office",
-        "address": "",
-        "voice": "(406) 698-9307",
-        "fax": ""
-      },
-      "district_office": {
-        "note": "District Office",
-        "address": "",
-        "voice": "",
-        "fax": ""
-      }
-    },
-    "__next__": null
-  },
-  {
-    "data": {
       "name": "Frank Smith",
       "state": "mt",
       "party": "Democratic",
@@ -6051,6 +6004,53 @@
         "note": "Capitol Office",
         "address": "",
         "voice": "(406) 942-0615",
+        "fax": ""
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
+      "name": "Cary Smith",
+      "state": "mt",
+      "party": "Republican",
+      "district": "27",
+      "chamber": "upper",
+      "image": "",
+      "email": "cary.smith@mtleg.gov",
+      "given_name": "",
+      "family_name": "",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6812",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://leg.mt.gov/legislator-information/roster/individual/6812",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "",
+        "voice": "(406) 698-9307",
         "fax": ""
       },
       "district_office": {
