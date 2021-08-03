@@ -266,14 +266,6 @@
   {
     "data": {
       "chamber": "upper",
-      "district": "23",
-      "party": "Democrat"
-    },
-    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/peters"
-  },
-  {
-    "data": {
-      "chamber": "upper",
       "district": "22",
       "party": "Democrat"
     },
@@ -374,5 +366,13 @@
       "party": "Democrat"
     },
     "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Details/zucker01"
+  },
+  {
+    "data": {
+      "chamber": "upper",
+      "district": "23",
+      "party": ""
+    },
+    "__next__": "PersonDetail source=http://mgaleg.maryland.gov/mgawebsite/Members/Index/senate"
   }
 ]
