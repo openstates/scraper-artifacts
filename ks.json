@@ -493,6 +493,10 @@
   },
   {
     "data": null,
+    "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1/"
+  },
+  {
+    "data": null,
     "__next__": "MembersDetail source=http://www.kslegislature.org/li/api/v11/rev-1/members/sen_baumgardner_molly_1/"
   },
   {

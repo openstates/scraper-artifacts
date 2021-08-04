@@ -283,6 +283,53 @@
   },
   {
     "data": {
+      "name": "Linda Clark",
+      "state": "hi",
+      "party": "Democratic",
+      "district": "13",
+      "chamber": "lower",
+      "image": "",
+      "email": "repclark@Capitol.hawaii.gov",
+      "given_name": "Linda",
+      "family_name": "Clark",
+      "suffix": "",
+      "links": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=clark&year=2021",
+          "note": ""
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.capitol.hawaii.gov/memberpage.aspx?member=clark&year=2021",
+          "note": ""
+        }
+      ],
+      "ids": {
+        "twitter": "",
+        "youtube": "",
+        "instagram": "",
+        "facebook": ""
+      },
+      "additional_offices": [],
+      "extras": {},
+      "capitol_office": {
+        "note": "Capitol Office",
+        "address": "Hawaii State Capitol, Room 303",
+        "voice": "808-586-6790",
+        "fax": "808-586-6779"
+      },
+      "district_office": {
+        "note": "District Office",
+        "address": "",
+        "voice": "",
+        "fax": ""
+      }
+    },
+    "__next__": null
+  },
+  {
+    "data": {
       "name": "Ty J.K. Cullen",
       "state": "hi",
       "party": "Democratic",
