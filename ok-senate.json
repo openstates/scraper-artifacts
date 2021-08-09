@@ -346,14 +346,6 @@
   {
     "data": {
       "party": "r",
-      "district": "28",
-      "name": "Zack Taylor"
-    },
-    "__next__": "SenateDetail source=https://oksenate.gov/senators/zack-taylor"
-  },
-  {
-    "data": {
-      "party": "r",
       "district": "8",
       "name": "Roger Thompson"
     },
